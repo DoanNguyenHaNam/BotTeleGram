@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <TemplateObjectList>
+    <TemplateObject id="0" objectName="self" isTemp="false" />
+    <TemplateObject id="1" objectName="target" isTemp="false" />
+    <TemplateObject id="2" objectName="攻击者" isTemp="false" />
+  </TemplateObjectList>
+  <RefParamList />
+  <Action tag="" length="0.500" loop="false">
+    <Track trackName="13210" eventType="CheckSkinIdTick" guid="d692412c-a404-4786-bf7c-e776727418ee" enabled="true" useRefParam="false" refParamName="" r="0.000" g="0.000" b="0.000" execOnForceStopped="false" execOnActionCompleted="false" stopAfterLastEvent="true">
+      <Event eventName="CheckSkinIdTick" time="0.000" isDuration="false" guid="11400f47-de9b-4853-b2bd-20faa22f7178">
+        <TemplateObject name="targetId" id="0" objectName="self" isTemp="false" refParamName="" useRefParam="false" />
+        <int name="skinId" value="13291" refParamName="" useRefParam="false" />
+      </Event>
+    </Track>
+    <Track trackName="TriggerParticleTick0" eventType="TriggerParticleTick" guid="a66c0c5d-659b-4258-b6f7-6630f5046041" enabled="true" useRefParam="false" refParamName="" r="0.000" g="0.000" b="0.000" execOnForceStopped="false" execOnActionCompleted="false" stopAfterLastEvent="true">
+      <Condition id="0" guid="d692412c-a404-4786-bf7c-e776727418ee" status="false" />
+      <Event eventName="TriggerParticleTick" time="0.000" isDuration="false" guid="4230a511-e98e-4349-b017-7255f87bdcc8">
+        <TemplateObject name="targetId" id="-1" objectName="None" isTemp="false" refParamName="" useRefParam="false" />
+        <TemplateObject name="objectSpaceId" id="1" objectName="target" isTemp="false" refParamName="" useRefParam="false" />
+        <bool name="bForceShowParticle" value="true" refParamName="" useRefParam="false" />
+        <String name="resourceName" value="prefab_skill_effects/hero_skill_effects/132_makeboluo/13212/Makeboluo_hurt_01" refParamName="" useRefParam="false" />
+        <float name="lifeTime" value="0.600" refParamName="" useRefParam="false" />
+        <Vector3 name="bindPosOffset" x="0.000" y="1.000" z="0.000" refParamName="" useRefParam="false" />
+        <Vector3i name="scalingInt" x="10000" y="10000" z="10000" refParamName="" useRefParam="false" />
+        <bool name="bOnlyFollowPos" value="true" refParamName="" useRefParam="false" />
+      </Event>
+    </Track>
+    <Track trackName="SkillFuncInstant0" eventType="SkillFuncInstant" guid="8d09eb2f-50ed-4358-a741-27ca7e1a94dd" enabled="true" useRefParam="false" refParamName="" r="0.000" g="0.000" b="0.000" execOnForceStopped="false" execOnActionCompleted="false" stopAfterLastEvent="true">
+      <Event eventName="SkillFuncInstant" time="0.000" isDuration="false" guid="3790b826-cfdb-474f-b051-ce68a08a4ea2" />
+    </Track>
+    <Track trackName="PlayHeroSoundTick5" eventType="PlayHeroSoundTick" guid="8407e164-c001-4ee0-a45f-77ee9899f9b6" enabled="true" useRefParam="false" refParamName="" r="0.000" g="0.000" b="0.000" execOnForceStopped="false" execOnActionCompleted="false" stopAfterLastEvent="true">
+      <Event eventName="PlayHeroSoundTick" time="0.000" isDuration="false" guid="2f330aeb-8918-4fdd-abce-f48a940fc098">
+        <TemplateObject name="targetId" id="1" objectName="target" isTemp="false" refParamName="" useRefParam="false" />
+        <TemplateObject name="sourceId" id="0" objectName="self" isTemp="false" refParamName="" useRefParam="false" />
+        <String name="eventName" value="Play_132_Hayate_Skill_A_Hit" refParamName="" useRefParam="false" />
+      </Event>
+    </Track>
+    <Track trackName="1" eventType="CheckSkillCombineConditionTick" guid="828f5749-08fa-4950-a7c1-4b600848697a" enabled="true" useRefParam="false" refParamName="" r="0.000" g="0.000" b="0.000" execOnForceStopped="false" execOnActionCompleted="false" stopAfterLastEvent="true">
+      <Event eventName="CheckSkillCombineConditionTick" time="0.000" isDuration="false" guid="b0dbc04b-5f6d-4610-a37b-b5240f304825">
+        <TemplateObject name="targetId" id="0" objectName="self" isTemp="false" refParamName="" useRefParam="false" />
+        <int name="skillCombineId" value="132111" refParamName="" useRefParam="false" />
+        <Enum name="checkOPType" value="3" refParamName="" useRefParam="false" />
+        <int name="skillCombineLevel" value="1" refParamName="" useRefParam="false" />
+      </Event>
+    </Track>
+    <Track trackName="TriggerParticleTick0" eventType="TriggerParticleTick" guid="98e5ab03-00d2-4e55-9f5a-fd4456a00b8e" enabled="true" useRefParam="false" refParamName="" r="0.000" g="0.000" b="0.000" execOnForceStopped="false" execOnActionCompleted="false" stopAfterLastEvent="true">
+      <Condition id="0" guid="d692412c-a404-4786-bf7c-e776727418ee" status="true" />
+      <Condition id="4" guid="828f5749-08fa-4950-a7c1-4b600848697a" status="true" />
+      <Event eventName="TriggerParticleTick" time="0.000" isDuration="false" guid="e8bf2bdb-8df6-4251-b074-9894c4947f58">
+        <TemplateObject name="targetId" id="-1" objectName="None" isTemp="false" refParamName="" useRefParam="false" />
+        <TemplateObject name="objectSpaceId" id="1" objectName="target" isTemp="false" refParamName="" useRefParam="false" />
+        <bool name="bForceShowParticle" value="true" refParamName="" useRefParam="false" />
+        <String name="resourceName" value="prefab_skill_effects/hero_skill_effects/132_makeboluo/13212/Makeboluo_spell01_hurt_01" refParamName="" useRefParam="false" />
+        <float name="lifeTime" value="0.600" refParamName="" useRefParam="false" />
+        <Vector3 name="bindPosOffset" x="0.000" y="1.000" z="0.000" refParamName="" useRefParam="false" />
+        <Vector3i name="scalingInt" x="10000" y="10000" z="10000" refParamName="" useRefParam="false" />
+        <TemplateObject name="lookTargetId" id="0" objectName="self" isTemp="false" refParamName="" useRefParam="false" />
+        <bool name="bOnlyFollowPos" value="true" refParamName="" useRefParam="false" />
+      </Event>
+    </Track>
+    <Track trackName="2" eventType="CheckSkillCombineConditionTick" guid="2078d58e-f04d-42d3-ad6a-be8b4f237f8f" enabled="true" useRefParam="false" refParamName="" r="0.000" g="0.000" b="0.000" execOnForceStopped="false" execOnActionCompleted="false" stopAfterLastEvent="true">
+      <Event eventName="CheckSkillCombineConditionTick" time="0.000" isDuration="false" guid="fb9ffe1e-fc80-463c-aa04-7e4749711ab8">
+        <TemplateObject name="targetId" id="0" objectName="self" isTemp="false" refParamName="" useRefParam="false" />
+        <int name="skillCombineId" value="132112" refParamName="" useRefParam="false" />
+        <Enum name="checkOPType" value="3" refParamName="" useRefParam="false" />
+        <int name="skillCombineLevel" value="1" refParamName="" useRefParam="false" />
+      </Event>
+    </Track>
+    <Track trackName="TriggerParticleTick0" eventType="TriggerParticleTick" guid="4c577dfa-17da-4e20-ab24-c47c2ba89877" enabled="true" useRefParam="false" refParamName="" r="0.000" g="0.000" b="0.000" execOnForceStopped="false" execOnActionCompleted="false" stopAfterLastEvent="true">
+      <Condition id="0" guid="d692412c-a404-4786-bf7c-e776727418ee" status="true" />
+      <Condition id="6" guid="2078d58e-f04d-42d3-ad6a-be8b4f237f8f" status="true" />
+      <Event eventName="TriggerParticleTick" time="0.000" isDuration="false" guid="a7f35d25-df6e-4aba-bf88-d537f6108345">
+        <TemplateObject name="targetId" id="-1" objectName="None" isTemp="false" refParamName="" useRefParam="false" />
+        <TemplateObject name="objectSpaceId" id="1" objectName="target" isTemp="false" refParamName="" useRefParam="false" />
+        <bool name="bForceShowParticle" value="true" refParamName="" useRefParam="false" />
+        <String name="resourceName" value="prefab_skill_effects/hero_skill_effects/132_makeboluo/13212/Makeboluo_spell01_hurt_02" refParamName="" useRefParam="false" />
+        <float name="lifeTime" value="0.600" refParamName="" useRefParam="false" />
+        <Vector3 name="bindPosOffset" x="0.000" y="1.000" z="0.000" refParamName="" useRefParam="false" />
+        <Vector3i name="scalingInt" x="10000" y="10000" z="10000" refParamName="" useRefParam="false" />
+        <TemplateObject name="lookTargetId" id="0" objectName="self" isTemp="false" refParamName="" useRefParam="false" />
+        <bool name="bOnlyFollowPos" value="true" refParamName="" useRefParam="false" />
+      </Event>
+    </Track>
+    <Track trackName="3" eventType="CheckSkillCombineConditionTick" guid="ff3f41d3-493a-48b9-be0e-6a587a39c1fd" enabled="true" useRefParam="false" refParamName="" r="0.000" g="0.000" b="0.000" execOnForceStopped="false" execOnActionCompleted="false" stopAfterLastEvent="true">
+      <Event eventName="CheckSkillCombineConditionTick" time="0.000" isDuration="false" guid="6786a65e-f11b-484a-a0ae-613c7521f69e">
+        <TemplateObject name="targetId" id="0" objectName="self" isTemp="false" refParamName="" useRefParam="false" />
+        <int name="skillCombineId" value="132113" refParamName="" useRefParam="false" />
+        <Enum name="checkOPType" value="3" refParamName="" useRefParam="false" />
+        <int name="skillCombineLevel" value="1" refParamName="" useRefParam="false" />
+      </Event>
+    </Track>
+    <Track trackName="TriggerParticleTick0" eventType="TriggerParticleTick" guid="ef6b1d26-5596-48cf-b86d-71c6ef8c4b95" enabled="true" useRefParam="false" refParamName="" r="0.000" g="0.000" b="0.000" execOnForceStopped="false" execOnActionCompleted="false" stopAfterLastEvent="true">
+      <Condition id="0" guid="d692412c-a404-4786-bf7c-e776727418ee" status="true" />
+      <Condition id="8" guid="ff3f41d3-493a-48b9-be0e-6a587a39c1fd" status="true" />
+      <Event eventName="TriggerParticleTick" time="0.000" isDuration="false" guid="6aab15ae-fa6c-4546-8584-893a21dd155c">
+        <TemplateObject name="targetId" id="-1" objectName="None" isTemp="false" refParamName="" useRefParam="false" />
+        <TemplateObject name="objectSpaceId" id="1" objectName="target" isTemp="false" refParamName="" useRefParam="false" />
+        <bool name="bForceShowParticle" value="true" refParamName="" useRefParam="false" />
+        <String name="resourceName" value="prefab_skill_effects/hero_skill_effects/132_makeboluo/13212/Makeboluo_spell01_hurt_03" refParamName="" useRefParam="false" />
+        <float name="lifeTime" value="0.600" refParamName="" useRefParam="false" />
+        <Vector3 name="bindPosOffset" x="0.000" y="1.000" z="0.000" refParamName="" useRefParam="false" />
+        <Vector3i name="scalingInt" x="10000" y="10000" z="10000" refParamName="" useRefParam="false" />
+        <TemplateObject name="lookTargetId" id="0" objectName="self" isTemp="false" refParamName="" useRefParam="false" />
+        <bool name="bOnlyFollowPos" value="true" refParamName="" useRefParam="false" />
+      </Event>
+    </Track>
+    <Track trackName="13212" eventType="CheckSkinIdTick" guid="42d1e9b8-2242-45a4-af66-5f50dd596177" enabled="true" useRefParam="false" refParamName="" r="0.000" g="0.000" b="0.000" execOnForceStopped="false" execOnActionCompleted="false" stopAfterLastEvent="true">
+      <Event eventName="CheckSkinIdTick" time="0.000" isDuration="false" guid="42831ba4-178e-45bc-b4d3-a41435d55907">
+        <TemplateObject name="targetId" id="0" objectName="self" isTemp="false" refParamName="" useRefParam="false" />
+        <int name="skinId" value="13297" refParamName="" useRefParam="false" />
+        <bool name="bEqual" value="false" refParamName="" useRefParam="false" />
+        <bool name="bSkipLogicCheck" value="true" refParamName="" useRefParam="false" />
+      </Event>
+    </Track>
+    <Track trackName="TriggerParticleTick0" eventType="TriggerParticleTick" guid="14b7d1da-530d-4424-aa02-0e362d941d1f" enabled="true" useRefParam="false" refParamName="" r="0.000" g="0.000" b="0.000" execOnForceStopped="false" execOnActionCompleted="false" stopAfterLastEvent="true">
+      <Condition id="10" guid="42d1e9b8-2242-45a4-af66-5f50dd596177" status="true" />
+      <Event eventName="TriggerParticleTick" time="0.000" isDuration="false" guid="5c14b800-8911-443b-810a-016a4bdc0752">
+        <TemplateObject name="targetId" id="-1" objectName="None" isTemp="false" refParamName="" useRefParam="false" />
+        <TemplateObject name="objectSpaceId" id="1" objectName="target" isTemp="false" refParamName="" useRefParam="false" />
+        <bool name="bForceShowParticle" value="true" refParamName="" useRefParam="false" />
+        <String name="resourceName" value="prefab_skill_effects/hero_skill_effects/132_makeboluo/13212/Makeboluo_spell01_hurt_01" refParamName="" useRefParam="false" />
+        <float name="lifeTime" value="0.600" refParamName="" useRefParam="false" />
+        <Vector3 name="bindPosOffset" x="0.000" y="1.000" z="0.000" refParamName="" useRefParam="false" />
+        <Vector3i name="scalingInt" x="10000" y="10000" z="10000" refParamName="" useRefParam="false" />
+        <bool name="bOnlyFollowPos" value="true" refParamName="" useRefParam="false" />
+      </Event>
+    </Track>
+  </Action>
+</Project>

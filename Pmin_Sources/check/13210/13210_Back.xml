@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <TemplateObjectList>
+    <TemplateObject id="0" objectName="self" isTemp="false" />
+    <TemplateObject id="1" objectName="target" isTemp="false" />
+  </TemplateObjectList>
+  <RefParamList>
+    <String name="strReturnCityFall" value="" refParamName="" useRefParam="false" />
+    <String name="strReturnCityEffectPath" value="" refParamName="" useRefParam="false" />
+    <Vector3i name="_TargetDir" x="0" y="0" z="0" refParamName="" useRefParam="false" />
+    <Vector3i name="_TargetPos" x="0" y="0" z="0" refParamName="" useRefParam="false" />
+  </RefParamList>
+  <Action tag="" length="11.500" loop="false">
+    <Track trackName="SetObjectDirectionTick0" eventType="SetObjectDirectionTick" guid="2bd47bb6-ff11-4ec6-823d-3e64bb78393d" enabled="true" useRefParam="false" refParamName="" r="0.000" g="0.000" b="0.000" execOnForceStopped="false" execOnActionCompleted="false" stopAfterLastEvent="true">
+      <Event eventName="SetObjectDirectionTick" time="0.005" isDuration="false" guid="1b30c58c-6c59-4607-b5db-0aa54fca7a5d">
+        <TemplateObject name="targetId" id="0" objectName="self" isTemp="false" refParamName="" useRefParam="false" />
+      </Event>
+    </Track>
+    <Track trackName="PlayAnimDuration0" eventType="PlayAnimDuration" guid="1b12d0e0-8e92-40e4-909a-72b21d52bcf5" enabled="true" useRefParam="false" refParamName="" r="0.000" g="0.000" b="0.000" execOnForceStopped="false" execOnActionCompleted="false" stopAfterLastEvent="true">
+      <Event eventName="PlayAnimDuration" time="0.000" length="7.000" isDuration="true" guid="f29d316f-a27a-46b7-88c3-b86dcf931ea5">
+        <TemplateObject name="targetId" id="0" objectName="self" isTemp="false" refParamName="" useRefParam="false" />
+        <String name="clipName" value="Home" refParamName="" useRefParam="false" />
+        <int name="layer" value="3" refParamName="" useRefParam="false" />
+        <bool name="bLoop" value="true" refParamName="" useRefParam="false" />
+        <float name="crossFadeTime" value="0.100" refParamName="" useRefParam="false" />
+        <bool name="alwaysAnimate" value="true" refParamName="" useRefParam="false" />
+      </Event>
+    </Track>
+    <Track trackName="PlayAnimDuration2" eventType="PlayAnimDuration" guid="c1f6bece-4d4f-4bb8-9f5b-ec448a721456" enabled="true" useRefParam="false" refParamName="" r="0.000" g="0.000" b="0.000" execOnForceStopped="false" execOnActionCompleted="false" stopAfterLastEvent="true">
+      <Event eventName="PlayAnimDuration" time="7.000" length="2.000" isDuration="true" guid="75f75ce8-11e1-41c1-bc71-c3d6b6e6e5b9">
+        <TemplateObject name="targetId" id="0" objectName="self" isTemp="false" refParamName="" useRefParam="false" />
+        <String name="clipName" value="Gohome" refParamName="" useRefParam="false" />
+        <int name="layer" value="3" refParamName="" useRefParam="false" />
+        <bool name="alwaysAnimate" value="true" refParamName="" useRefParam="false" />
+      </Event>
+    </Track>
+    <Track trackName="CheckSkinIdTick0" eventType="CheckSkinIdTick" guid="39635977-b345-4f1f-8964-8519159d4dc7" enabled="true" useRefParam="false" refParamName="" r="0.000" g="0.000" b="0.000" execOnForceStopped="false" execOnActionCompleted="false" stopAfterLastEvent="true">
+      <Event eventName="CheckSkinIdTick" time="0.000" isDuration="false" guid="0963cecd-048c-46db-a469-177e996d66a6">
+        <TemplateObject name="targetId" id="0" objectName="self" isTemp="false" refParamName="" useRefParam="false" />
+        <int name="skinId" value="13297" refParamName="" useRefParam="false" />
+        <bool name="bEqual" value="false" refParamName="" useRefParam="false" />
+      </Event>
+    </Track>
+    <Track trackName="ChangeHDHeightDuration0" eventType="ChangeHDHeightDuration" guid="82dc879e-a214-4801-b29a-e3cd90db2d88" enabled="true" useRefParam="false" refParamName="" r="0.000" g="0.000" b="0.000" execOnForceStopped="false" execOnActionCompleted="false" stopAfterLastEvent="true">
+      <Event eventName="ChangeHDHeightDuration" time="0.000" length="7.000" isDuration="true" guid="a7ec5fd1-d7f4-4cc1-bd92-580ce4534265">
+        <TemplateObject name="targetId" id="0" objectName="self" isTemp="false" refParamName="" useRefParam="false" />
+        <int name="heightChange" value="750" refParamName="" useRefParam="false" />
+      </Event>
+    </Track>
+    <Track trackName="RemoveBuffTick0" eventType="RemoveBuffTick" guid="ff05be76-afa1-4294-b0f9-a39a5a7c4d64" enabled="true" useRefParam="false" refParamName="" r="0.000" g="0.000" b="0.000" execOnForceStopped="false" execOnActionCompleted="false" stopAfterLastEvent="true">
+      <Condition id="3" guid="39635977-b345-4f1f-8964-8519159d4dc7" status="true" />
+      <Event eventName="RemoveBuffTick" time="0.000" isDuration="false" guid="3e75d91d-3585-4ba7-89b4-721afb2b0c7f">
+        <TemplateObject name="targetId" id="0" objectName="self" isTemp="false" refParamName="" useRefParam="false" />
+        <int name="buffId" value="132114" refParamName="" useRefParam="false" />
+      </Event>
+    </Track>
+    <Track trackName="HitTriggerTick1" eventType="HitTriggerTick" guid="be682a12-b596-450c-aadc-857acb5e52da" enabled="true" useRefParam="false" refParamName="" r="0.000" g="0.000" b="0.000" execOnForceStopped="true" execOnActionCompleted="true" stopAfterLastEvent="true">
+      <Event eventName="HitTriggerTick" time="8.500" isDuration="false" guid="3871f1b0-7225-4c38-8be8-91bc8819b08d">
+        <TemplateObject name="targetId" id="0" objectName="self" isTemp="false" refParamName="" useRefParam="false" />
+        <int name="SelfSkillCombineID_1" value="132114" refParamName="" useRefParam="false" />
+        <TemplateObject name="triggerId" id="-1" objectName="None" isTemp="false" refParamName="" useRefParam="false" />
+      </Event>
+    </Track>
+  </Action>
+</Project>

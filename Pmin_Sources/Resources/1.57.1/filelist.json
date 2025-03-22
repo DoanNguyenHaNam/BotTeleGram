@@ -1,0 +1,17 @@
+{
+    "filelist": [
+        {
+            "bkcurl": "http://dl.kgvn.garenanow.com/mgames/kgvn/gcloud/1945015797/3075/cures/1.57.1.8/1945015797_3075_1.57.1.8_20250319203108_474847150_cures.ifs.cures",
+            "bkurl": "http://dl.kgvn.garenanow.com/mgames/kgvn/gcloud/1945015797/3075/cures/1.57.1.8/1945015797_3075_1.57.1.8_20250319203108_474847150_cures.ifs",
+            "cfilesize": 374311,
+            "cmd5": "303146c16947c2fefe8a8185979eea3c",
+            "curl": "https://dl.kgvn.garenanow.com/mgames/kgvn/gcloud/1945015797/3075/cures/1.57.1.8/1945015797_3075_1.57.1.8_20250319203108_474847150_cures.ifs.cures",
+            "filename": "1945015797_3075_1.57.1.8_20250319203108_474847150_cures.ifs",
+            "filesize": 102112642,
+            "md5": "a000558656759ce5044f30b15585af3e",
+            "url": "https://dl.kgvn.garenanow.com/mgames/kgvn/gcloud/1945015797/3075/cures/1.57.1.8/1945015797_3075_1.57.1.8_20250319203108_474847150_cures.ifs",
+            "ver": "1.57.1.8"
+        }
+    ],
+    "predownload": "false"
+}

@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <TemplateObjectList>
+    <TemplateObject objectName="self" id="0" isTemp="false" />
+  </TemplateObjectList>
+  <RefParamList />
+  <Action tag="" length="4.500" loop="false">
+    <Track trackName="非15013" eventType="CheckSkinIdTick" guid="8b74f75f-5ab0-4446-8915-7fc49ffcb9e0" enabled="true" useRefParam="false" refParamName="" r="0.000" g="0.000" b="0.000" execOnForceStopped="false" execOnActionCompleted="false" stopAfterLastEvent="true">
+      <Event eventName="CheckSkinIdTick" time="0.000" isDuration="false" guid="f8786c6f-a42c-46a6-a6d8-19c3833c40a4">
+        <TemplateObject name="targetId" objectName="self" id="0" isTemp="false" refParamName="" useRefParam="false" />
+        <int name="skinId" value="15098" refParamName="" useRefParam="false" />
+        <bool name="bEqual" value="true" refParamName="" useRefParam="false" />
+        <bool name="bSkipLogicCheck" value="true" refParamName="" useRefParam="false" />
+      </Event>
+    </Track>
+    <Track trackName="PlayAnimationTick0" eventType="PlayAnimationTick" guid="786f1ad6-fd57-4adc-b724-9b335c23e7ad" enabled="true" useRefParam="false" refParamName="" r="0.000" g="0.000" b="0.000" execOnForceStopped="false" execOnActionCompleted="false" stopAfterLastEvent="true">
+      <Condition id="0" guid="8b74f75f-5ab0-4446-8915-7fc49ffcb9e0" status="true" />
+      <Event eventName="PlayAnimationTick" time="0.000" isDuration="false" guid="3153b846-ce43-4960-a327-eca19e401253">
+        <TemplateObject name="targetId" objectName="self" id="0" isTemp="false" refParamName="" useRefParam="false" />
+        <String name="clipName" value="Dead" refParamName="" useRefParam="false" />
+        <float name="crossFadeTime" value="0.100" refParamName="" useRefParam="false" />
+        <int name="layer" value="0" refParamName="" useRefParam="false" />
+      </Event>
+    </Track>
+    <Track trackName="15013" eventType="CheckSkinIdTick" guid="3d8bd0e9-5788-4c11-b032-c6b51947412f" enabled="true" useRefParam="false" refParamName="" r="0.000" g="0.000" b="0.000" execOnForceStopped="false" execOnActionCompleted="false" stopAfterLastEvent="true">
+      <Event eventName="CheckSkinIdTick" time="0.000" isDuration="false" guid="4a2d5edd-6f48-41f2-b26c-8ff7c85d89be">
+        <TemplateObject name="targetId" objectName="self" id="0" isTemp="false" refParamName="" useRefParam="false" />
+        <int name="skinId" value="15097" refParamName="" useRefParam="false" />
+        <bool name="bEqual" value="false" refParamName="" useRefParam="false" />
+        <bool name="bSkipLogicCheck" value="true" refParamName="" useRefParam="false" />
+      </Event>
+    </Track>
+    <Track trackName="PlayAnimationTick0" eventType="PlayAnimationTick" guid="ac6e750f-5cc8-4e41-bd43-3973c58f13e0" enabled="true" useRefParam="false" refParamName="" r="0.000" g="0.000" b="0.000" execOnForceStopped="false" execOnActionCompleted="false" stopAfterLastEvent="true">
+      <Condition id="2" guid="3d8bd0e9-5788-4c11-b032-c6b51947412f" status="true" />
+      <Event eventName="PlayAnimationTick" time="0.000" isDuration="false" guid="25f12f3d-f782-4462-898b-3ca4dfc2bb5f">
+        <TemplateObject name="targetId" objectName="self" id="0" isTemp="false" refParamName="" useRefParam="false" />
+        <String name="clipName" value="Dead" refParamName="" useRefParam="false" />
+        <float name="crossFadeTime" value="0.100" refParamName="" useRefParam="false" />
+        <int name="layer" value="5" refParamName="" useRefParam="false" />
+      </Event>
+    </Track>
+    <Track trackName="PlayHeroSoundTick20" eventType="PlayHeroSoundTick" guid="f84eecc2-5fac-4332-bdac-76f4349ce55c" enabled="true" useRefParam="false" refParamName="" r="0.000" g="0.000" b="0.000" execOnForceStopped="false" execOnActionCompleted="false" stopAfterLastEvent="true">
+      <Event eventName="PlayHeroSoundTick" time="0.000" isDuration="false" guid="3f87828e-9011-4583-8e62-e1f668427e11">
+        <TemplateObject name="targetId" objectName="self" id="0" isTemp="false" refParamName="" useRefParam="false" />
+        <TemplateObject name="sourceId" objectName="self" id="0" isTemp="false" refParamName="" useRefParam="false" />
+        <String name="eventName" value="Play_HanXin_Voice_Dead" refParamName="" useRefParam="false" />
+        <Array name="extraSkinId" refParamName="" useRefParam="false" type="uint">
+          <uint value="35" />
+          <uint value="36" />
+          <uint value="37" />
+        </Array>
+      </Event>
+    </Track>
+    <Track trackName="15012" eventType="CheckSkinIdVirtualTick" guid="ff53c832-d60a-4409-bcdb-d35882717178" enabled="true" useRefParam="false" refParamName="" r="0.000" g="0.000" b="0.000" execOnForceStopped="false" execOnActionCompleted="false" stopAfterLastEvent="true">
+      <Event eventName="CheckSkinIdVirtualTick" time="0.000" isDuration="false" guid="af246dcf-4156-494f-a5ea-ad25cca6cf67">
+        <TemplateObject name="targetId" objectName="self" id="0" isTemp="false" refParamName="" useRefParam="false" />
+        <int name="skinId" value="15091" refParamName="" useRefParam="false" />
+      </Event>
+    </Track>
+    <Track trackName="TriggerParticle0" eventType="TriggerParticle" guid="7fba7e46-e527-4f3c-8eb0-27cf64cc3e38" enabled="true" useRefParam="false" refParamName="" r="0.000" g="0.000" b="0.000" execOnForceStopped="false" execOnActionCompleted="false" stopAfterLastEvent="true">
+      <Condition id="5" guid="ff53c832-d60a-4409-bcdb-d35882717178" status="true" />
+      <Event eventName="TriggerParticle" time="0.000" length="2.000" isDuration="true" guid="c797468b-c5af-4175-bf76-b8bc14a1e8b6">
+        <TemplateObject name="targetId" objectName="self" id="0" isTemp="false" refParamName="" useRefParam="false" />
+        <String name="resourceName" value="prefab_skill_effects/hero_skill_effects/150_hanxin/15013/siwang_tongyong_01" refParamName="" useRefParam="false" />
+        <bool name="bHideWhenDead" value="false" refParamName="" useRefParam="false" />
+      </Event>
+    </Track>
+    <Track trackName="开蓝武器" eventType="SetActorVisibilityTick" guid="98192d6e-5d85-4504-b93f-da09e6b0e12b" enabled="true" useRefParam="false" refParamName="" r="0.000" g="0.000" b="0.000" execOnForceStopped="false" execOnActionCompleted="false" stopAfterLastEvent="true">
+      <Condition id="2" guid="3d8bd0e9-5788-4c11-b032-c6b51947412f" status="true" />
+      <Event eventName="SetActorVisibilityTick" time="0.000" isDuration="false" guid="f7699b93-974b-40fd-abdf-3b3872e1f977">
+        <TemplateObject name="targetId" objectName="self" id="0" isTemp="false" refParamName="" useRefParam="false" />
+        <bool name="fuzzyMatching" value="true" refParamName="" useRefParam="false" />
+        <String name="node" value="15014_HanXin_Wea01" refParamName="" useRefParam="false" />
+      </Event>
+    </Track>
+    <Track trackName="关金武器" eventType="SetActorVisibilityTick" guid="8768f150-be82-404a-afbf-d9887d737236" enabled="true" useRefParam="false" refParamName="" r="0.000" g="0.000" b="0.000" execOnForceStopped="false" execOnActionCompleted="false" stopAfterLastEvent="true">
+      <Condition id="2" guid="3d8bd0e9-5788-4c11-b032-c6b51947412f" status="true" />
+      <Event eventName="SetActorVisibilityTick" time="0.000" isDuration="false" guid="d7b022f1-3120-4187-8f49-db5b481d030a">
+        <TemplateObject name="targetId" objectName="self" id="0" isTemp="false" refParamName="" useRefParam="false" />
+        <bool name="visible" value="false" refParamName="" useRefParam="false" />
+        <bool name="fuzzyMatching" value="true" refParamName="" useRefParam="false" />
+        <String name="node" value="15014_HanXin_Wea02" refParamName="" useRefParam="false" />
+      </Event>
+    </Track>
+    <Track trackName="开蓝手臂" eventType="SetActorVisibilityTick" guid="9779e708-5e52-44a3-a969-358d5eb795b8" enabled="true" useRefParam="false" refParamName="" r="0.000" g="0.000" b="0.000" execOnForceStopped="false" execOnActionCompleted="false" stopAfterLastEvent="true">
+      <Condition id="2" guid="3d8bd0e9-5788-4c11-b032-c6b51947412f" status="true" />
+      <Event eventName="SetActorVisibilityTick" time="0.000" isDuration="false" guid="b4d52b6e-5570-48b8-8efd-1acecfa11c95">
+        <TemplateObject name="targetId" objectName="self" id="0" isTemp="false" refParamName="" useRefParam="false" />
+        <bool name="fuzzyMatching" value="true" refParamName="" useRefParam="false" />
+        <String name="node" value="15014_HanXin_Arm01" refParamName="" useRefParam="false" />
+      </Event>
+    </Track>
+    <Track trackName="关金手臂" eventType="SetActorVisibilityTick" guid="5f14168a-5d48-4586-b257-7b25fe8a6278" enabled="true" useRefParam="false" refParamName="" r="0.000" g="0.000" b="0.000" execOnForceStopped="false" execOnActionCompleted="false" stopAfterLastEvent="true">
+      <Condition id="2" guid="3d8bd0e9-5788-4c11-b032-c6b51947412f" status="true" />
+      <Event eventName="SetActorVisibilityTick" time="0.000" isDuration="false" guid="f57e0ea1-c6c3-4754-919b-13e0dc4c0956">
+        <TemplateObject name="targetId" objectName="self" id="0" isTemp="false" refParamName="" useRefParam="false" />
+        <bool name="visible" value="false" refParamName="" useRefParam="false" />
+        <bool name="fuzzyMatching" value="true" refParamName="" useRefParam="false" />
+        <String name="node" value="15014_HanXin_Arm02" refParamName="" useRefParam="false" />
+      </Event>
+    </Track>
+  </Action>
+</Project>

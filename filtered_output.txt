@@ -1,0 +1,2016 @@
+####
+105_LianPo
+-->10501 : Toro Đặc cảnh NYPD
+-->10502 : Toro Trung phong cắm
+-->10503 : Toro Thần thoại Hy Lạp
+-->10504 : Toro Ngưu hải vương
+-->10505 : Toro Bạch mao ngưu
+-->10506 : Toro Tử Lôi Thần Ngưu
+-->10508 : Toro [ex]
+-->10509 : Toro [ex]
+-->10510 : Toro [ex]
+-->10511 : Toro [ex]
+-->10512 : Toro [ex]
+-->10513 : Toro [ex]
+-->
+####
+106_XiaoQiao
+-->10602 : Krixi Xứ sở thần tiên
+-->10603 : Krixi Tiệc bãi biển
+-->10604 : Krixi Cô tiên thỏ
+-->10605 : Krixi Phó văn nghệ
+-->10606 : Krixi Tiểu yêu nữ
+-->10607 : Krixi Hồ thiên nga
+-->10608 : Krixi Thần thoại Hy Lạp
+-->10609 : Krixi Thủy thủ
+-->10610 : Krixi [ex][DNT]
+-->10611 : Krixi Lốc xoáy kinh hoàng Tatsumaki
+-->10612 : Krixi [ex][DNT]
+-->10613 : Krixi Nàng tiên nổi loạn
+-->10614 : Krixi [ex][DNT]
+-->10615 : Krixi Tiểu hồng mai
+-->10616 : Krixi [ex][DNT]
+-->10617 : Krixi Quán quân
+-->10618 : Krixi [ex][DNT]
+-->10619 : Krixi [ex][DNT]
+-->
+####
+107_Zhaoyun
+-->10701 : Zephys Oán linh
+-->10702 : Zephys [ex][DNT]
+-->10703 : Zephys Hiệp sĩ bí ngô
+-->10704 : Zephys Dung nham
+-->10705 : Zephys Siêu việt
+-->10706 : Zephys Phi thương
+-->10707 : Zephys Tư lệnh viễn chinh
+-->10708 : Zephys Hắc vô thường
+-->10709 : Zephys Inosuke Hashibira
+-->10710 : Zephys [ex]
+-->10711 : Zephys Đầu bếp Sashimi
+-->10712 : Zephys Nghệ nhân đồ chơi
+-->10713 : Zephys [ex]
+-->10714 : Zephys [ex]
+-->10715 : Zephys [ex]
+-->10716 : Zephys [ex]
+-->10717 : Zephys [ex]
+-->10718 : Zephys [ex]
+-->10719 : Zephys [ex]
+-->
+####
+108_MoDi
+-->10801 : Gildur Tiệc bãi biển
+-->10802 : Gildur Phượt thủ
+-->10803 : Gildur Đại gia học viện
+-->10804 : Gildur Đại võ sư
+-->10805 : Gildur Thuyền trưởng râu bạc
+-->10806 : Gildur Bác học thiên tài
+-->10807 : Gildur Phù thủy Ba Tư
+-->10808 : Gildur [ex][DNT]
+-->10809 : Gildur Xích Long
+-->10810 : Gildur [ex]
+-->10811 : Gildur [ex]
+-->10812 : Gildur [ex]
+-->10813 : Gildur [ex]
+-->10814 : Gildur [ex]
+-->10815 : Gildur [ex]
+-->10816 : Gildur [ex]
+-->10817 : Gildur [ex]
+-->
+####
+109_DaJi
+-->10901 : Veera Cô giáo hắc ám
+-->10902 : Veera Góa phụ giả kim
+-->10903 : Veera Nàng dơi tuyết
+-->10904 : Veera Y tá bạo loạn
+-->10905 : Veera Thiên nga đen
+-->10906 : Veera Vũ hội bóng đêm
+-->10907 : Veera Kimono
+-->10908 : Veera Vũ điệu samba
+-->10909 : Veera [ex][DNT]
+-->10910 : Veera Đánh cắp trái tim
+-->10911 : Veera Dơi hắc ám
+-->10912 : Veera A.I love you
+-->10913 : Veera Bách hoa tiên nữ
+-->10914 : Veera Phù thủy Hội họa
+-->10915 : Veera [ex]
+-->10916 : Veera [ex]
+-->10917 : Veera [ex]
+-->10918 : Veera [ex]
+-->10919 : Veera [ex]
+-->
+####
+110_YingZheng
+-->11001 : Kahlii Cô dâu hắc ám
+-->11002 : Kahlii [ex][DNT]
+-->11003 : Kahlii Quàng khăn đỏ
+-->11004 : Kahlii Kim cô giáo chủ
+-->11005 : Kahlii Siêu đầu bếp
+-->11006 : Kahlii Vũ hội bóng đêm
+-->11007 : Kahlii Tử Điệp
+-->11008 : Kahlii Robot hộ lý
+-->11009 : Kahlii Rối nước Thủy đình
+-->11010 : Kahlii [ex]
+-->11011 : Kahlii [ex]
+-->11012 : Kahlii [ex]
+-->11013 : Kahlii [ex]
+-->11014 : Kahlii [ex]
+-->11015 : Kahlii [ex]
+-->11016 : Kahlii [ex]
+-->
+####
+111_SunShangXiang
+-->11101 : Violet Nữ hoàng pháo hoa
+-->11102 : Violet Nữ đặc cảnh
+-->11103 : Violet Phi công trẻ
+-->11104 : Violet Mèo siêu quậy
+-->11105 : Violet Tiệc bãi biển
+-->11106 : Violet Phó học tập
+-->11107 : Violet Thứ nguyên vệ thần
+-->11108 : Violet Pháo hoa Neon
+-->11109 : Violet Đặc dị
+-->11110 : Violet Vợ người ta
+-->11111 : Violet Tay súng siêu phàm
+-->11112 : Violet Huy chương vàng
+-->11113 : Violet Huyết ma thần
+-->11114 : Violet Lam tước
+-->11115 : Violet Thần Long tỷ tỷ
+-->11116 : Violet DJ Câu hồn
+-->11117 : Violet Bách hoa tiên nữ
+-->11119 : Violet Vọng nguyệt Long Cơ
+-->
+####
+112_GongShuBan
+-->11201 : Yorn Cung thủ bóng đêm
+-->11203 : Yorn Đặc nhiệm SWAT
+-->11204 : Yorn Phá Vân tiễn
+-->11205 : Yorn Long thần soái
+-->11206 : Yorn Nam thần giáng sinh
+-->11207 : Yorn Soái ca học đường
+-->11208 : Yorn Thần thoại Hy Lạp
+-->11209 : Yorn Lục nguyệt cung
+-->11210 : Yorn [ex][DNT]
+-->11211 : Yorn Soái ca bãi biển
+-->11212 : Yorn Vệ Binh ngân hà
+-->11213 : Yorn Giao long
+-->11214 : Yorn Ký giả diệu kỳ
+-->11215 : Yorn [ex]
+-->11216 : Yorn [ex]
+-->11217 : Yorn [ex]
+-->11218 : Yorn [ex]
+-->11219 : Yorn [ex]
+-->
+####
+113_ZhuangZhou
+-->11301 : Chaugnar Ác mộng sinh hóa
+-->11302 : Chaugnar Quang vinh
+-->11303 : Chaugnar Quang vinh
+-->11304 : Chaugnar Quân cảnh
+-->11305 : Chaugnar [ex][DNT]
+-->11306 : Chaugnar [ex][DNT]
+-->11307 : Chaugnar [ex][DNT]
+-->11308 : Chaugnar [ex][DNT]
+-->11309 : Chaugnar [ex][DNT]
+-->11310 : Chaugnar [ex]
+-->11311 : Chaugnar [ex]
+-->11312 : Chaugnar [ex]
+-->11313 : Chaugnar [ex]
+-->
+####
+114_Omega
+-->11401 : Omega Hộ vệ ba bích
+-->11402 : Omega Người máy xanh
+-->11403 : Omega Cỗ máy siêu tốc
+-->11404 : Omega Hộ vệ ba bích
+-->11405 : Omega Hộ vệ Carano
+-->11406 : Omega [ex][DNT]
+-->11407 : Omega [ex][DNT]
+-->11408 : Omega [ex][DNT]
+-->11409 : Omega [ex][DNT]
+-->11410 : Omega [ex]
+-->11411 : Omega [ex]
+-->11412 : Omega [ex]
+-->11413 : Omega [ex]
+-->
+####
+115_GaoJianLi
+-->11501 : Jinna Đại tư tế
+-->11502 : Jinna Dạ xoa vương
+-->11503 : Jinna Hỏa nhãn ma vương
+-->11504 : Jinna Kim quang thánh đồ
+-->11505 : Jinna [ex][DNT]
+-->11506 : Jinna Kim giác
+-->11507 : Jinna Ma thuật sĩ
+-->11508 : Jinna [ex][DNT]
+-->11509 : Jinna [ex]
+-->11510 : Jinna [ex]
+-->11511 : Jinna [ex]
+-->11512 : Jinna [ex]
+-->11513 : Jinna [ex]
+-->11514 : Jinna [ex]
+-->
+####
+116_JingKe
+-->11601 : Butterfly Xuân nữ ngổ ngáo
+-->11602 : Butterfly Thủy thủ
+-->11603 : Butterfly Teen nữ công nghệ
+-->11604 : Butterfly Nữ quái nổi loạn
+-->11605 : Butterfly Quận chúa đế chế
+-->11606 : Butterfly Đông êm đềm
+-->11607 : Butterfly Phượng cửu thiên
+-->11608 : Butterfly Cẩm y vệ: Chu tước
+-->11609 : Butterfly [ex][DNT]
+-->11610 : Butterfly Asuna Tia Chớp
+-->11611 : Butterfly Stacia
+-->11612 : Butterfly [ex][DNT]
+-->11613 : Butterfly Gánh anh đến cùng
+-->11614 : Butterfly Kim Ngư thần nữ
+-->11615 : Butterfly [ex]未命名
+-->11616 : Butterfly Nữ thần Khởi nguyên
+-->11617 : Butterfly [ex]未命名
+-->11618 : Butterfly Tình yêu nổi loạn
+-->11619 : Butterfly Rockgirl Siêu Đẳng
+-->
+####
+117_ZhongWuYan
+-->11701 : Ormarr Cựu chiến binh
+-->11702 : Ormarr [ex][DNT]
+-->11703 : Ormarr Thông thỏa thích
+-->11704 : Ormarr Giáo viên thể hình
+-->11705 : Ormarr Ông chủ KFC
+-->11706 : Ormarr CĐV Cuồng nhiệt
+-->11707 : Ormarr [ex][DNT]
+-->11708 : Ormarr [ex][DNT]
+-->11709 : Ormarr [ex][DNT]
+-->11710 : Ormarr [ex]
+-->11711 : Ormarr [ex]
+-->11712 : Ormarr [ex]
+-->11713 : Ormarr [ex]
+-->11714 : Ormarr [ex]
+-->11715 : Ormarr [ex]
+-->
+####
+118_SunBin
+-->11801 : Alice Nhà chiêm tinh
+-->11802 : Alice Phi hành gia
+-->11803 : Alice Bé gấu tuyết
+-->11804 : Alice Xứ sở thần tiên
+-->11805 : Alice Dạ hội
+-->11806 : Alice Tiểu quỷ bí ngô
+-->11807 : Alice Bé du xuân
+-->11808 : Alice Quân nhạc Athanor
+-->11809 : Alice Tiểu tiên tử
+-->11810 : Alice The Butterfly Mansion Girl
+-->11811 : Alice Phi hành gia
+-->11812 : Alice Eternal Sailor Chibi Moon
+-->11813 : Alice [ex]未命名
+-->11814 : Alice [ex]未命名
+-->11815 : Alice [ex]
+-->11816 : Alice Xứ sở diệu kỳ
+-->11817 : Alice Ốc quế tinh nghịch
+-->11818 : Alice [ex]
+-->11819 : Alice [ex]
+-->
+####
+119_BianQue
+-->11901 : Mganga Hề cung đình
+-->11902 : Mganga Tiệc bánh kẹo
+-->11903 : Mganga Pháp sư mèo
+-->11904 : Mganga Nhà hóa học
+-->11905 : Mganga Độc toàn thân
+-->11906 : Mganga Quái tặc không gian
+-->11907 : Mganga Đèn Thần Hậu Đậu
+-->11908 : Mganga [ex][DNT]
+-->11909 : Mganga [ex][DNT]
+-->11910 : Mganga [ex]
+-->11911 : Mganga [ex]
+-->11912 : Mganga [ex]
+-->11913 : Mganga [ex]
+-->11914 : Mganga [ex]
+-->
+####
+120_BaiQi
+-->12001 : Mina Tiểu thư đoạt hồn
+-->12003 : Mina Tiệc bánh kẹo
+-->12004 : Mina Kẹo hay ghẹo
+-->12005 : Mina Lưỡi hái hoàng kim
+-->12006 : Mina Đào tạo siêu sao
+-->12007 : Mina Nữ thần Ai Cập
+-->12008 : Mina Linh xà Yêu vũ
+-->12009 : Mina [ex][DNT]
+-->12010 : Mina [ex]
+-->12011 : Mina Xích Huyết Diễm Quỷ
+-->12012 : Mina [ex]
+-->12013 : Mina [ex]
+-->12014 : Mina [ex]
+-->12015 : Mina [ex]
+-->12016 : Mina [ex]
+-->12017 : Mina [ex]
+-->12018 : Mina [ex]
+-->
+####
+121_MiYue
+-->12101 : Marja Lam Hải yêu hậu
+-->12102 : Marja Linh xà tư tế
+-->12103 : Marja Hỏa ngọc nữ vương
+-->12104 : Marja Yêu nữ săn mồi
+-->12105 : Marja Chủ hôn
+-->12106 : Marja Phù Quang Mạc Ảnh
+-->12107 : Marja [ex][DNT]
+-->12108 : Marja [ex][DNT]
+-->12109 : Marja [ex][DNT]
+-->12110 : Marja [ex]
+-->12111 : Marja [ex]
+-->12112 : Marja [ex]
+-->12113 : Marja [ex]
+-->12114 : Marja [ex]
+-->
+####
+123_LvBu
+-->12301 : Maloch Ác ma địa ngục
+-->12302 : Maloch Tiệc hóa trang
+-->12303 : Maloch Samurai tử sĩ
+-->12304 : Maloch Đại tướng Rô bốt
+-->12305 : Maloch Ông kẹ bí ngô
+-->12306 : Maloch Ác nhân vô tuyến
+-->12307 : Maloch Vũ hội bóng đêm
+-->12308 : Maloch Đại ca Mukbang
+-->12309 : Maloch Quỷ nhãn ma thể
+-->12310 : Maloch Đao phủ Dạ Ưng
+-->12311 : Maloch [ex]
+-->12312 : Maloch [ex]
+-->12313 : Maloch [ex]
+-->12314 : Maloch [ex]
+-->12315 : Maloch [ex]
+-->12316 : Maloch [ex]
+-->12317 : Maloch [ex]
+-->
+####
+124_ZhouYu
+-->12401 : Ignis Hỏa thuật sư
+-->12402 : Ignis Quang vinh
+-->12403 : Ignis Bắc băng vương
+-->12404 : Ignis Thầy tế mặt trời
+-->12405 : Ignis Thần mặt trời
+-->12406 : Ignis [ex][DNT]
+-->12407 : Ignis [ex][DNT]
+-->12408 : Ignis [ex][DNT]
+-->12409 : Ignis [ex][DNT]
+-->12410 : Ignis [ex]
+-->12411 : Ignis [ex]
+-->12412 : Ignis [ex]
+-->12413 : Ignis [ex]
+-->12414 : Ignis [ex]
+-->12415 : Ignis [ex]
+-->
+####
+126_XiaHouDun
+-->12601 : Arduin Cận vệ hoàng gia
+-->12602 : Arduin Quang vinh
+-->12603 : Arduin Tà linh hiệp sỹ
+-->12604 : Arduin Chiến binh cổ đại
+-->12605 : Arduin Đường vào tim em
+-->12606 : Arduin Bạch vệ chiến giáp
+-->12607 : Arduin Organ cổ quái
+-->12608 : Arduin Ngạo Hổ Hàn Đao
+-->12609 : Arduin [ex][DNT]
+-->12610 : Arduin [ex]
+-->12611 : Arduin [ex]
+-->12612 : Arduin [ex]
+-->12613 : Arduin [ex]
+-->12614 : Arduin [ex]
+-->12615 : Arduin [ex]
+-->
+####
+127_ZhenJi
+-->12701 : Azzen'Ka Hoàng tử cát
+-->12702 : Azzen'Ka Linh hồn lữ khách
+-->12703 : Azzen'Ka Ghẹo hay kẹo
+-->12704 : Azzen'Ka Quỷ diện lãng khách
+-->12705 : Azzen'Ka Quang vinh 2.0
+-->12706 : Azzen'Ka Giáng sinh "An lành"
+-->12707 : Azzen'Ka [ex][DNT]
+-->12708 : Azzen'Ka [ex][DNT]
+-->12709 : Azzen'Ka [ex][DNT]
+-->12710 : Azzen'Ka [ex]
+-->12711 : Azzen'Ka [ex]
+-->12712 : Azzen'Ka [ex]
+-->12713 : Azzen'Ka [ex]
+-->12714 : Azzen'Ka [ex]
+-->
+####
+128_CaoCao
+-->12801 : Lữ Bố Tiệc bãi biển
+-->12802 : Lữ Bố Nam vương
+-->12803 : Lữ Bố Long kỵ sĩ
+-->12804 : Lữ Bố Kỵ sĩ âm phủ
+-->12805 : Lữ Bố Đặc nhiệm SWAT
+-->12806 : Lữ Bố Tư lệnh Robot
+-->12807 : Lữ Bố Hỏa long chiến thần
+-->12808 : Lữ Bố Ichigo Kurosaki
+-->12809 : Lữ Bố Thần ngọc
+-->12810 : Lữ Bố Vũ điệu samba
+-->12811 : Lữ Bố [ex]未命名
+-->12812 : Lữ Bố Cửu Thiên Lôi Thần
+-->12813 : Lữ Bố [ex]未命名
+-->12814 : Lữ Bố [ex]未命名
+-->12815 : Lữ Bố [ex]
+-->12816 : Lữ Bố [ex]
+-->12817 : Lữ Bố [ex]
+-->12818 : Lữ Bố [ex]
+-->12819 : Lữ Bố [ex]
+-->
+####
+129_DianWei
+-->12901 : Triệu Vân Tiến sĩ thiên tài
+-->12902 : Triệu Vân Đoạt mệnh thương
+-->12903 : Triệu Vân Quý công tử
+-->12904 : Triệu Vân Dũng sĩ đồ long
+-->12906 : Triệu Vân Chiến tướng mùa đông
+-->12907 : Triệu Vân Kỵ sĩ tận thế
+-->12908 : Triệu Vân Cẩm y vệ: Hỏa long
+-->12909 : Triệu Vân [ex][DNT]
+-->12910 : Triệu Vân Thần tài
+-->12911 : Triệu Vân [ex]
+-->12912 : Triệu Vân Minh Chung Long Đế
+-->12914 : Triệu Vân [ex]
+-->12915 : Triệu Vân [ex]
+-->12916 : Triệu Vân [ex]
+-->12917 : Triệu Vân [ex]
+-->12918 : Triệu Vân [ex]
+-->12919 : Triệu Vân [ex]
+-->
+####
+130_GongBenWuZang
+-->13001 : Airi Thích khách
+-->13002 : Airi Ninja xanh lá
+-->13003 : Airi Quái xế công nghệ
+-->13004 : Airi Cấm vệ nguyệt tộc
+-->13005 : Airi Kiemono
+-->13006 : Airi Bạch Kiemono
+-->13007 : Airi Phó kiếm đạo
+-->13008 : Airi Tiệc bãi biển
+-->13009 : Airi Mỵ hồ
+-->13010 : Airi Đặc công tử điệp
+-->13011 : Airi Bích Hải thánh nữ
+-->13012 : Airi Lễ hội mùa xuân
+-->13013 : Airi Thánh nữ Xiêm La
+-->13014 : Airi [ex][DNT]
+-->13015 : Airi Thứ nguyên Vệ thần
+-->13016 : Airi [ex]未命名
+-->13017 : Airi Ninja ẩm thực
+-->13018 : Airi Búp bê Mộng mị
+-->13019 : Airi [ex]未命名
+-->
+####
+131_LiBai
+-->13101 : Murad Thợ săn tiền thưởng
+-->13102 : Murad M-TP Thần tượng học đường
+-->13103 : Murad Đồ thần đao
+-->13104 : Murad Siêu việt
+-->13105 : Murad Thiên tài sân cỏ
+-->13106 : Murad Điệp viên Anubis
+-->13107 : Murad Đặc dị
+-->13108 : Murad Siêu việt 2.0
+-->13109 : Murad Chí tôn thần kiếm
+-->13110 : Murad Dược sĩ tình yêu
+-->13111 : Murad Byakuya Kuchiki
+-->13112 : Murad Zenitsu Agatsuma
+-->13113 : Murad Thích khách sa mạc
+-->13114 : Murad S - Quang vinh
+-->13115 : Murad Huyết hỏa cuồng đồ
+-->13116 : Murad Tuyệt thế thần binh
+-->13117 : Murad Chiến binh đồ chơi
+-->
+####
+132_MaKeBoLuo
+-->13201 : Hayate Bạch ảnh
+-->13202 : Hayate Chiến binh trăng khuyết
+-->13203 : Hayate Ngân lang
+-->13204 : Hayate Tử thần vũ trụ
+-->13205 : Hayate Quỷ diện
+-->13206 : Hayate Kim ưng sát thủ
+-->13207 : Hayate Bạch lang
+-->13208 : Hayate Bạch vô thường
+-->13209 : Hayate Bóng người dưới trăng
+-->13210 : Hayate Tu Di thánh đế
+-->13211 : Hayate Mãnh hổ kim cang
+-->13212 : Hayate Thống soái Dạ Ưng
+-->13213 : Hayate [ex][DNT]
+-->13214 : Hayate [ex][DNT]
+-->13215 : Hayate [ex]
+-->13216 : Hayate [ex]
+-->13217 : Hayate [ex]
+-->13218 : Hayate [ex]
+-->13219 : Hayate [ex]
+-->
+####
+133_DiRenJie
+-->13301 : Valhein Hoàng tử quạ
+-->13302 : Valhein Vũ khí tối thượng
+-->13303 : Valhein [ex][DNT]
+-->13304 : Valhein Đại công tước
+-->13306 : Valhein Số 7 thần sầu
+-->13307 : Valhein Khiêu chiến
+-->13308 : Valhein Cá mập "nghiêm túc"
+-->13309 : Valhein Hoàng tử Băng
+-->13310 : Valhein Thần tài
+-->13311 : Valhein Xạ thần Kagutsuchi
+-->13312 : Valhein S - Quang vinh
+-->13313 : Valhein Đệ nhất thần thám
+-->13314 : Valhein AW4
+-->13315 : Valhein AW5
+-->13316 : Valhein [ex][DNT]
+-->13317 : Valhein [ex][DNT]
+-->13318 : Valhein [ex][DNT]
+-->13319 : Valhein [ex][DNT]
+-->
+####
+134_TangSanZang
+-->13401 : Skud [ex][DNT]
+-->13402 : Skud Sơn tặc
+-->13403 : Skud Quang vinh
+-->13404 : Skud Tà linh ma tướng
+-->13405 : Skud Mafia
+-->13406 : Skud [ex][DNT]
+-->13407 : Skud [ex][DNT]
+-->13408 : Skud Cứu hộ
+-->13409 : Skud [ex][DNT]
+-->13410 : Skud [ex]
+-->13411 : Skud [ex]
+-->13412 : Skud [ex]
+-->13413 : Skud [ex]
+-->13414 : Skud [ex]
+-->13415 : Skud [ex]
+-->
+####
+135_XiangYu
+-->13501 : Thane Kẻ hủy diệt
+-->13502 : Thane Hiệp sĩ hoàng kim
+-->13503 : Thane Quang vinh
+-->13504 : Thane Mật vụ
+-->13505 : Thane Bác ong bay vừa
+-->13506 : Thane [ex][DNT]
+-->13507 : Thane [ex][DNT]
+-->13508 : Thane [ex][DNT]
+-->13509 : Thane [ex][DNT]
+-->13510 : Thane [ex]
+-->13511 : Thane [ex]
+-->13512 : Thane [ex]
+-->13513 : Thane [ex]
+-->13514 : Thane [ex]
+-->13515 : Thane [ex]
+-->
+####
+136_WuZeTian
+-->13601 : Ilumia Nữ chúa tuyết
+-->13602 : Ilumia Thần mặt trời
+-->13603 : Ilumia Hồng hoa hậu
+-->13604 : Ilumia Thiên nữ Áo dài
+-->13605 : Ilumia Nữ hoàng khí giới
+-->13606 : Ilumia Diva nổi loạn
+-->13607 : Ilumia Ngược dòng thời gian
+-->13608 : Ilumia Quý cô nhà hát
+-->13609 : Ilumia Khải Huyền Thiên Hậu
+-->13610 : Ilumia Trọng tài
+-->13611 : Ilumia Thụy Mộc liên hoa
+-->13612 : Ilumia Nộ hải Thiên ngư
+-->13613 : Ilumia Lưỡng Nghi Long Hậu
+-->13614 : Ilumia [ex]
+-->13615 : Ilumia [ex]
+-->13616 : Ilumia [ex]
+-->
+####
+137_SiMaYi
+-->13701 : Paine Khúc nhạc tử vong
+-->13702 : Paine Phi vụ thế kỷ
+-->13703 : Paine Công tước máu
+-->13704 : Paine Ô Thước đại hiệp
+-->13705 : Paine Tử xà bá tước
+-->13706 : Paine [ex][DNT]
+-->13707 : Paine [ex][DNT]
+-->13708 : Paine [ex][DNT]
+-->13709 : Paine [ex][DNT]
+-->13710 : Paine [ex]
+-->13711 : Paine [ex]
+-->13712 : Paine [ex]
+-->13713 : Paine [ex]
+-->
+####
+139_KongFuZi
+-->13901 : Kil'Groth Cảnh vệ biển
+-->13902 : Kil'Groth Quang vinh
+-->13903 : Kil'Groth Chú lính chì
+-->13904 : Kil'Groth Càn Nguyên thủ vệ
+-->13905 : Kil'Groth [ex][DNT]
+-->13906 : Kil'Groth [ex][DNT]
+-->13907 : Kil'Groth [ex][DNT]
+-->13908 : Kil'Groth [ex][DNT]
+-->13909 : Kil'Groth [ex][DNT]
+-->13910 : Kil'Groth [ex]
+-->13911 : Kil'Groth [ex]
+-->13912 : Kil'Groth [ex]
+-->13913 : Kil'Groth [ex]
+-->
+####
+140_GuanYu
+-->14001 : Superman Chúa tể công lý
+-->14002 : Superman Bất công lý
+-->14003 : Superman [ex][DNT]
+-->14004 : Superman [ex][DNT]
+-->14005 : Superman [ex][DNT]
+-->14006 : Superman [ex][DNT]
+-->14007 : Superman [ex][DNT]
+-->14008 : Superman [ex][DNT]
+-->14009 : Superman [ex][DNT]
+-->14010 : Superman [ex]
+-->14011 : Superman [ex]
+-->14012 : Superman [ex]
+-->
+####
+141_Diaochan
+-->14102 : Lauriel Hỏa phượng hoàng
+-->14103 : Lauriel Phù thủy bí ngô
+-->14104 : Lauriel Thánh quang sứ
+-->14105 : Lauriel Hoa khôi giáng sinh
+-->14106 : Lauriel Lạc thần
+-->14107 : Lauriel Tinh vân sứ
+-->14108 : Lauriel Tiệc bãi biển
+-->14109 : Lauriel Thiên sứ công nghệ
+-->14110 : Lauriel Phi Thiên
+-->14111 : Lauriel Thứ nguyên vệ thần
+-->14112 : Lauriel [ex][DNT]
+-->14113 : Lauriel Vũ khúc hân hoan
+-->14114 : Lauriel Nữ vương học đường
+-->14115 : Lauriel Đôi cánh Nguyệt thực
+-->14116 : Lauriel Nữ vương học đường
+-->14117 : Lauriel Vũ khúc miêu ảnh
+-->14118 : Lauriel Thiên nữ Dạ Ưng
+-->14119 : Lauriel [ex]
+-->
+####
+142_CaiWenJi
+-->14201 : Natalya Mị muốn đi chơi
+-->14202 : Natalya Nghệ nhân lân
+-->14203 : Natalya Quý cô thủy tề
+-->14204 : Natalya Phó nháy nhí nhảnh
+-->14205 : Natalya Quà quái quỷ
+-->14206 : Natalya Nghiệp hỏa yêu hậu
+-->14207 : Natalya Băng tâm thần nữ
+-->14208 : Natalya Nữ quái công nghệ
+-->14209 : Natalya Nghệ sĩ ma mị
+-->14210 : Natalya Thần phú quý
+-->14211 : Natalya [ex][DNT]
+-->14212 : Natalya Biệt đội băng lam
+-->14213 : Natalya Nguyệt Ảnh Kiếm Tiên
+-->14214 : Natalya [ex][DNT]
+-->14215 : Natalya [ex]
+-->14216 : Natalya [ex]
+-->14217 : Natalya [ex]
+-->14218 : Natalya [ex]
+-->14219 : Natalya [ex]
+-->
+####
+144_ChengYaoJin
+-->14401 : Taara Đại tù trưởng
+-->14402 : Taara Lam Hải chiến nữ
+-->14403 : Taara Hỏa ngọc nữ đế
+-->14404 : Taara Tiệc bãi biển
+-->14405 : Taara Hồng môn đường chủ
+-->14406 : Taara Tư lệnh hải âu
+-->14407 : Taara Nữ chiến binh
+-->14408 : Taara [ex][DNT]
+-->14409 : Taara [ex][DNT]
+-->14410 : Taara Hoa hồng đỏ tươi
+-->14411 : Taara Thần chiến tranh
+-->14412 : Taara [ex]
+-->14413 : Taara [ex]
+-->14414 : Taara [ex]
+-->14415 : Taara [ex]
+-->14416 : Taara [ex]
+-->14417 : Taara [ex]
+-->
+####
+146_HongFu
+-->14601 : Zill Lốc địa ngục
+-->14602 : Zill Dung nham
+-->14603 : Zill Cựu thần thiên hà
+-->14604 : Zill Diệt nguyệt tử sĩ
+-->14605 : Zill Thần Mộng Mị
+-->14606 : Zill Phong thần Tu La
+-->14607 : Zill [ex][DNT]
+-->14608 : Zill [ex][DNT]
+-->14609 : Zill [ex][DNT]
+-->14610 : Zill Quái xế
+-->14611 : Zill Con quay gió
+-->14612 : Zill [ex]
+-->14613 : Zill [ex]
+-->14614 : Zill [ex]
+-->14615 : Zill [ex]
+-->14616 : Zill [ex]
+-->
+####
+148_JiangZiYa
+-->14801 : Preyta Không tặc
+-->14802 : Preyta Băng hỏa long sư
+-->14803 : Preyta Phi cơ F1
+-->14804 : Preyta Ma độc huyết long
+-->14805 : Preyta [ex][DNT]
+-->14806 : Preyta [ex][DNT]
+-->14807 : Preyta [ex][DNT]
+-->14808 : Preyta [ex][DNT]
+-->14809 : Preyta [ex][DNT]
+-->14810 : Preyta [ex]
+-->14811 : Preyta [ex]
+-->14812 : Preyta [ex]
+-->14813 : Preyta [ex]
+-->
+####
+149_LiuBang
+-->14901 : Xeniel Thiên sứ hủy diệt
+-->14902 : Xeniel Trung vệ thép
+-->14903 : Xeniel Kim sí điểu
+-->14904 : Xeniel Ma sứ tận thế
+-->14905 : Xeniel Tổng lãnh tinh hệ
+-->14906 : Xeniel Thần thoại Hy Lạp
+-->14907 : Xeniel [ex][DNT]
+-->14908 : Xeniel Shipper bánh mỳ
+-->14909 : Xeniel Hóa thân Tengu
+-->14910 : Xeniel Tay trống ngang tàng
+-->14911 : Xeniel [ex]
+-->14912 : Xeniel [ex]
+-->14913 : Xeniel [ex]
+-->14914 : Xeniel [ex]
+-->14915 : Xeniel [ex]
+-->14916 : Xeniel [ex]
+-->14917 : Xeniel [ex]
+-->
+####
+150_HanXin
+-->15001 : Nakroth Chiến binh hỏa ngục
+-->15002 : Nakroth Quân đoàn địa ngục
+-->15003 : Nakroth Bboy công nghệ
+-->15004 : Nakroth Siêu việt
+-->15005 : Nakroth Khiêu chiến
+-->15006 : Nakroth Quán quân
+-->15007 : Nakroth Lôi quang sứ
+-->15008 : Nakroth Tiệc bãi biển
+-->15009 : Nakroth Thứ nguyên vệ thần
+-->15010 : Nakroth [ex][DNT]
+-->15011 : Nakroth [ex][DNT]
+-->15012 : Nakroth Killua
+-->15013 : Nakroth Quỷ thương Liệp đế
+-->15014 : Nakroth Producer Tia chớp
+-->15015 : Nakroth Bạch Diện chiến thương
+-->15016 : Nakroth [ex]
+-->15017 : Nakroth [ex]
+-->15018 : Nakroth [ex]
+-->15019 : Nakroth [ex]
+-->
+####
+152_WangZhaoJun
+-->15201 : Điêu Thuyền Nữ vương anh đào
+-->15202 : Điêu Thuyền Tiệc bãi biển
+-->15203 : Điêu Thuyền Nữ y tá
+-->15204 : Điêu Thuyền WaVe
+-->15205 : Điêu Thuyền Hoa hậu
+-->15206 : Điêu Thuyền Phù thủy bí ngô
+-->15207 : Điêu Thuyền Vũ điệu Nghê Thường
+-->15208 : Điêu Thuyền Tà linh pháp trượng
+-->15209 : Điêu Thuyền Mèo công nghệ
+-->15210 : Điêu Thuyền Thần ngọc
+-->15211 : Điêu Thuyền Thất Tịch tiên tử
+-->15212 : Điêu Thuyền Eternal Sailor Moon
+-->15213 : Điêu Thuyền Mối tình đầu
+-->15214 : Điêu Thuyền [ex][DNT]
+-->15215 : Điêu Thuyền [ex][DNT]
+-->15216 : Điêu Thuyền Tuế Hàn Đỗ Quyên
+-->15217 : Điêu Thuyền [ex]
+-->15218 : Điêu Thuyền [ex]
+-->15219 : Điêu Thuyền [ex]
+-->
+####
+153_LanLingWang
+-->15301 : Kaine Đôi cánh đại dương
+-->15302 : Kaine Dơi địa ngục
+-->15303 : Kaine Người dơi
+-->15304 : Kaine Chiến binh kim quang
+-->15305 : Kaine Thiếu chủ bóng đêm
+-->15306 : Kaine [ex][DNT]
+-->15307 : Kaine [ex][DNT]
+-->15308 : Kaine [ex][DNT]
+-->15309 : Kaine [ex][DNT]
+-->
+####
+154_HuaMuLan
+-->15401 : Yena Khuyên bạc
+-->15402 : Yena Thỏ may mắn
+-->15403 : Yena Chiến binh nguyệt tộc
+-->15404 : Yena Hoạt náo viên
+-->15405 : Yena Nữ hoàng thể thao
+-->15406 : Yena Dạ nguyệt thánh nữ
+-->15407 : Yena Giảng viên tình ái
+-->15408 : Yena Nữ cướp biển
+-->15409 : Yena WaVe
+-->15410 : Yena Vũ điệu Giáng Sinh
+-->15411 : Yena [ex]
+-->15412 : Yena Huyền Cửu Thiên
+-->15413 : Yena Trấn Yêu Thần Lộc
+-->15414 : Yena [ex]
+-->15415 : Yena [ex]
+-->15416 : Yena [ex]
+-->15417 : Yena [ex]
+-->15418 : Yena [ex]
+-->15419 : Yena [ex]
+-->
+####
+156_ZhangLiang
+-->15601 : Aleister Thiếu niên hắc ám
+-->15602 : Aleister Quang vinh
+-->15603 : Aleister Quỷ soái nguyệt tộc
+-->15604 : Aleister Siêu sao bóng rổ
+-->15605 : Aleister Xứ sở thần tiên
+-->15606 : Aleister Tư lệnh viễn chinh
+-->15607 : Aleister Âm dương sư
+-->15608 : Aleister Ảo thuật gia
+-->15609 : Aleister Thống lĩnh hỗn mang
+-->15610 : Aleister Mật vụ thần thám
+-->15611 : Aleister HLV bất bại
+-->15612 : Aleister Ác nhân đồ chơi
+-->15613 : Aleister [ex]
+-->15614 : Aleister [ex]
+-->15615 : Aleister [ex]
+-->15616 : Aleister [ex]
+-->15617 : Aleister [ex]
+-->15618 : Aleister [ex]
+-->15619 : Aleister [ex]
+-->
+####
+157_BuZhiHuoWu
+-->15701 : Raz [ex][DNT]
+-->15702 : Raz Đại tù trưởng
+-->15703 : Raz Băng quyền quán quân
+-->15704 : Raz Chiến thần Muay Thái
+-->15705 : Raz Siêu việt
+-->15706 : Raz Siêu cấp tin tặc
+-->15707 : Raz Saitama Cosplay
+-->15708 : Raz Mãnh lôi thần quyền
+-->15709 : Raz MC võ đài
+-->15710 : Raz Bão vũ Cuồng lôi
+-->15711 : Raz Gon
+-->15712 : Raz [ex]
+-->15713 : Raz [ex]
+-->15714 : Raz [ex]
+-->15715 : Raz [ex]
+-->15716 : Raz [ex]
+-->15717 : Raz [ex]
+-->15718 : Raz [ex]
+-->15719 : Raz [ex]
+-->
+####
+159_Dolia
+-->15901 : Dolia Hoa tiêu đại dương
+-->15902 : Dolia Môn đồ tập sự
+-->
+####
+162_Nakoruru
+-->16201 : Kriknak Bọ cánh bạc
+-->16202 : Kriknak Yêu trùng cổ mộ
+-->16203 : Kriknak ST.L-162
+-->16204 : Kriknak Bọ cánh cam
+-->16205 : Kriknak Tử trùng DDos
+-->16206 : Kriknak [ex][DNT]
+-->16207 : Kriknak [ex][DNT]
+-->16208 : Kriknak [ex][DNT]
+-->16209 : Kriknak [ex][DNT]
+-->16210 : Kriknak [ex]
+-->16211 : Kriknak [ex]
+-->16212 : Kriknak [ex]
+-->16213 : Kriknak [ex]
+-->16214 : Kriknak [ex]
+-->16215 : Kriknak [ex]
+-->
+####
+163_JuYouJing
+-->16301 : Ryoma Thợ săn tiền thưởng
+-->16302 : Ryoma Đại tướng nguyệt tộc
+-->16303 : Ryoma Thanh long bang chủ
+-->16304 : Ryoma Samurai huyền thoại
+-->16305 : Ryoma Dạ hội
+-->16306 : Ryoma Chiến binh Cyborg
+-->16307 : Ryoma Ultraman
+-->16308 : Ryoma Đặc nhiệm Giáng sinh
+-->16309 : Ryoma Khiêu chiến
+-->16310 : Ryoma Ailing Samurai
+-->16311 : Ryoma Maple Frost
+-->16312 : Ryoma [ex]
+-->16313 : Ryoma [ex]
+-->16314 : Ryoma [ex]
+-->16315 : Ryoma [ex]
+-->16316 : Ryoma [ex]
+-->16317 : Ryoma [ex]
+-->16318 : Ryoma [ex]
+-->16319 : Ryoma [ex]
+-->
+####
+166_YaSeWang
+-->16601 : Arthur Hoàng kim cốt
+-->16602 : Arthur Lãnh chúa xương
+-->16603 : Arthur Si tình kiếm
+-->16604 : Arthur Siêu sao Cricket
+-->16605 : Arthur Đặc cảnh băng lôi
+-->16606 : Arthur Hiệp sĩ trăng khuyết
+-->16607 : Arthur Siêu việt
+-->16608 : Arthur Crescent General
+-->16609 : Arthur Tôn Hổ vô song
+-->16610 : Arthur Hoàng tử Okka
+-->16611 : Arthur Biệt đội băng lam
+-->16612 : Arthur [ex][DNT]
+-->16613 : Arthur [ex][DNT]
+-->16614 : Arthur [ex][DNT]
+-->16615 : Arthur [ex]
+-->16616 : Arthur [ex]
+-->16617 : Arthur [ex]
+-->16618 : Arthur [ex]
+-->16619 : Arthur [ex]
+-->
+####
+167_WuKong
+-->16701 : Ngộ Không Đạo tặc
+-->16702 : Ngộ Không Hỏa nhãn kim tinh
+-->16703 : Ngộ Không Siêu việt
+-->16704 : Ngộ Không Ngộ khá trẩu
+-->16705 : Ngộ Không Siêu việt 2.0
+-->16706 : Ngộ Không Đặc vụ băng hầu
+-->16707 : Ngộ Không Nhóc tì bá đạo
+-->16708 : Ngộ Không Tề Thiên ma hầu
+-->16709 : Ngộ Không Cổ thần Ai Cập
+-->16710 : Ngộ Không Tân niên Võ thần
+-->16711 : Ngộ Không Thần Giáp Xích Diễm
+-->16712 : Ngộ Không Tề Thiên Võ Thánh
+-->16713 : Ngộ Không [ex]未命名
+-->16714 : Ngộ Không [ex]未命名
+-->16715 : Ngộ Không [ex]
+-->16716 : Ngộ Không [ex]
+-->16717 : Ngộ Không [ex]
+-->16718 : Ngộ Không [ex]
+-->16719 : Ngộ Không [ex]
+-->
+####
+168_Niu
+-->16801 : Lumburr Dung nham
+-->16802 : Lumburr Dung nham
+-->16803 : Lumburr Cự thần viễn cổ
+-->16804 : Lumburr Máy đào khoáng
+-->16805 : Lumburr Vệ binh hỏa diệm
+-->16806 : Lumburr [ex][DNT]
+-->16807 : Lumburr [ex][DNT]
+-->16808 : Lumburr [ex][DNT]
+-->16809 : Lumburr [ex][DNT]
+-->16810 : Lumburr [ex]
+-->16811 : Lumburr [ex]
+-->16812 : Lumburr [ex]
+-->16813 : Lumburr [ex]
+-->16814 : Lumburr [ex]
+-->
+####
+169_HouYi
+-->16901 : Slimz Thỏ thợ mỏ
+-->16902 : Slimz Chú thỏ ngọc
+-->16903 : Slimz Xứ sở thần tiên
+-->16904 : Slimz Thỏ nhồi bông
+-->16905 : Slimz Giấc mơ trưa
+-->16906 : Slimz Lẩu chua cay
+-->16907 : Slimz Sứ giả thiên giới
+-->16908 : Slimz [ex][DNT]
+-->16909 : Slimz "Siêu Cấp Tối Thượng"
+-->16910 : Slimz [ex]
+-->16911 : Slimz [ex]
+-->16912 : Slimz [ex]
+-->16913 : Slimz [ex]
+-->16914 : Slimz [ex]
+-->16915 : Slimz [ex]
+-->16916 : Slimz [ex]
+-->16917 : Slimz [ex]
+-->
+####
+170_LiuBei
+-->17001 : Moren Anh thợ điện
+-->17002 : Moren Lính cứu hỏa
+-->17003 : Moren Binh nhì
+-->17004 : Moren [ex][DNT]
+-->17005 : Moren [ex][DNT]
+-->17006 : Moren [ex][DNT]
+-->17007 : Moren [ex][DNT]
+-->17008 : Moren [ex][DNT]
+-->17009 : Moren [ex][DNT]
+-->17010 : Moren [ex]
+-->17011 : Moren [ex]
+-->17012 : Moren [ex]
+-->17013 : Moren [ex]
+-->
+####
+171_ZhangFei
+-->17101 : Cresht Thợ sửa cáp
+-->17102 : Cresht Cá cắn cáp
+-->17103 : Cresht Đại sư sushi
+-->17104 : Cresht Tiệc bãi biển
+-->17105 : Cresht [ex][DNT]
+-->17106 : Cresht Bách tướng Lão tam
+-->17107 : Cresht [ex][DNT]
+-->17108 : Cresht [ex][DNT]
+-->17109 : Cresht [ex][DNT]
+-->17110 : Cresht [ex]
+-->17111 : Cresht [ex]
+-->17112 : Cresht [ex]
+-->17113 : Cresht [ex]
+-->17114 : Cresht [ex]
+-->
+####
+173_LiYuanFang
+-->17301 : Fennik Nhà thám hiểm
+-->17302 : Fennik Đội đặc nhiệm
+-->17303 : Fennik Tiệc bánh kẹo
+-->17304 : Fennik Tuần lộc láu lỉnh
+-->17305 : Fennik Phi hành gia
+-->17306 : Fennik Tay đua F1
+-->17307 : Fennik Shipper Siêu thanh
+-->17308 : Fennik Phi hồ ẩn sĩ
+-->17309 : Fennik Phong tranh thám xuân
+-->17310 : Fennik [ex]
+-->17311 : Fennik [ex]
+-->17312 : Fennik [ex]
+-->17313 : Fennik [ex]
+-->17314 : Fennik [ex]
+-->17315 : Fennik [ex]
+-->17316 : Fennik [ex]
+-->17317 : Fennik [ex]
+-->
+####
+174_YuJi
+-->17401 : Stuart Trò đùa tử vong
+-->17402 : Stuart Vua hề
+-->17403 : Stuart Gã hề
+-->17404 : Stuart Đêm kinh hoàng
+-->17405 : Stuart Đạo tặc tử quang
+-->17406 : Stuart Streamer bí ẩn
+-->17407 : Stuart [ex][DNT]
+-->17408 : Stuart [ex][DNT]
+-->17409 : Stuart [ex][DNT]
+-->17410 : Stuart [ex]
+-->17411 : Stuart [ex]
+-->17412 : Stuart [ex]
+-->
+####
+175_ZhongKui
+-->17501 : Grakk Thuyền trưởng râu đỏ
+-->17502 : Grakk Khô lâu đại tướng
+-->17503 : Grakk Chàng gấu tuyết
+-->17504 : Grakk Đi vào lòng đất
+-->17505 : Grakk Mèo "Thần tài"
+-->17506 : Grakk Sumo
+-->17507 : Grakk Tiệc bãi biển
+-->17508 : Grakk Màu cờ sắc áo
+-->17509 : Grakk Vũ điệu Samba
+-->17510 : Grakk Cỗ xe tăng
+-->17511 : Grakk [ex][DNT]
+-->17512 : Grakk Cận vệ Mafia
+-->17513 : Grakk [ex][DNT]
+-->17514 : Grakk [ex][DNT]
+-->17515 : Grakk [ex]
+-->17516 : Grakk [ex]
+-->17517 : Grakk Thần ẩm thực
+-->17518 : Grakk Thủ vệ Dạ Ưng
+-->17519 : Grakk [ex]
+-->
+####
+177_ChengJiSiHan
+-->17701 : Lindis Thám tử tư
+-->17702 : Lindis Quang thánh tiễn
+-->17703 : Lindis Quang vinh
+-->17704 : Lindis Nữ vương pháo hoa
+-->17705 : Lindis Dạ tiệc
+-->17706 : Lindis Đồng phục Shihakusho
+-->17707 : Lindis [ex][DNT]
+-->17708 : Lindis Đặc vụ thần thám
+-->17709 : Lindis [ex][DNT]
+-->17710 : Lindis [ex]
+-->17711 : Lindis [ex]
+-->17712 : Lindis [ex]
+-->17713 : Lindis [ex]
+-->17714 : Lindis [ex]
+-->17715 : Lindis [ex]
+-->17716 : Lindis [ex]
+-->
+####
+180_NeZha
+-->18001 : Max Hiệp sĩ nhí
+-->18002 : Max Găng tay vàng
+-->18003 : Max Quang vinh
+-->18004 : Max Thần đồng sinh hóa
+-->18005 : Max Thần thoại Hy Lạp
+-->18006 : Max Tiểu King Kong
+-->18007 : Max Chuyên gia đập hộp
+-->18008 : Max "Không trêu bạn"
+-->18009 : Max [ex][DNT]
+-->18010 : Max [ex]
+-->18011 : Max [ex]
+-->18012 : Max [ex]
+-->18013 : Max [ex]
+-->18014 : Max [ex]
+-->18015 : Max [ex]
+-->18016 : Max [ex]
+-->18017 : Max [ex]
+-->
+####
+184_CaiWenJi
+-->18401 : Helen Cảnh vệ rừng
+-->18402 : Helen Nghìn lẻ một đêm
+-->18403 : Helen Ngủ trong rừng
+-->18404 : Helen Hotgirl Trà sữa
+-->18405 : Helen Hồng liên tiên tử
+-->18406 : Helen Xứ sở diệu kỳ
+-->18407 : Helen Cổ tích Biển xanh
+-->18408 : Helen Bé hoa xuân
+-->18409 : Helen [ex][DNT]
+-->18410 : Helen [ex]
+-->18411 : Helen [ex]
+-->18412 : Helen [ex]
+-->18413 : Helen [ex]
+-->18414 : Helen [ex]
+-->18415 : Helen [ex]
+-->
+####
+186_TaiYiZhenRen
+-->18601 : TeeMee Xiếc cung đình
+-->18602 : TeeMee Mặc định
+-->18603 : TeeMee Tay đua Siêu Tốc
+-->18604 : TeeMee Thần thoại Hy Lạp
+-->18605 : TeeMee Thịt xiên nướng
+-->18606 : TeeMee Tanuki chiêu tài
+-->18607 : TeeMee [ex][DNT]
+-->18608 : TeeMee [ex][DNT]
+-->18609 : TeeMee Lẩu nấm
+-->18610 : TeeMee [ex]
+-->18611 : TeeMee [ex]
+-->18612 : TeeMee [ex]
+-->18613 : TeeMee [ex]
+-->18614 : TeeMee [ex]
+-->18615 : TeeMee [ex]
+-->18616 : TeeMee [ex]
+-->
+####
+187_DongHuangTaiYi
+-->18701 : Arum Thú vệ cổ mộ
+-->18702 : Arum Vũ khúc long hổ
+-->18703 : Arum Linh tượng vu nữ
+-->18704 : Arum Vũ khúc thần sứ
+-->18705 : Arum Thỏ may mắn
+-->18706 : Arum Nữ hoàng gấu xám
+-->18707 : Arum [ex][DNT]
+-->18708 : Arum Quản lý tài năng
+-->18709 : Arum Bạn muốn hẹn hò?
+-->18710 : Arum [ex]
+-->18711 : Arum [ex]
+-->18712 : Arum Thần phong Thống lĩnh
+-->18713 : Arum Thần tượng nhạc rock
+-->18714 : Arum [ex]
+-->18715 : Arum [ex]
+-->18716 : Arum [ex]
+-->18717 : Arum [ex]
+-->18718 : Arum [ex]
+-->18719 : Arum [ex]
+-->
+####
+189_GuiGuZi
+-->18901 : Krizzix Cún siêu quậy
+-->18902 : Krizzix Đội đặc nhiệm
+-->18903 : Krizzix Nghệ sĩ đường phố
+-->18904 : Krizzix [ex][DNT]
+-->18905 : Krizzix Trưởng lão
+-->18906 : Krizzix [ex][DNT]
+-->18907 : Krizzix [ex][DNT]
+-->18908 : Krizzix [ex][DNT]
+-->18909 : Krizzix [ex][DNT]
+-->18910 : Krizzix [ex]
+-->18911 : Krizzix [ex]
+-->18912 : Krizzix [ex]
+-->18913 : Krizzix [ex]
+-->
+####
+190_ZhuGeLiang
+-->19001 : Tulen Nhà thám hiểm
+-->19003 : Tulen Phù thủy kiến tạo
+-->19004 : Tulen Đông êm đềm
+-->19005 : Tulen Phó kỷ luật
+-->19006 : Tulen Tân thần hoàng kim
+-->19007 : Tulen Chí tôn kiếm tiên
+-->19008 : Tulen Dạ hội
+-->19009 : Tulen Thần sứ STL-79
+-->19010 : Tulen Hỏa thần long tộc
+-->19011 : Tulen Đại úy Athanor
+-->19012 : Tulen Tân niên vệ thần
+-->19013 : Tulen Tiêu Dao Vũ Thần
+-->19014 : Tulen Giám thị sấm sét
+-->19015 : Tulen Satoru Gojo
+-->19016 : Tulen [ex]
+-->19017 : Tulen [ex]
+-->19018 : Tulen [ex]
+-->19019 : Tulen [ex]
+-->
+####
+191_DaQiao
+-->19101 : Rouie Sứ giả vũ trụ
+-->19102 : Rouie Công chúa hỏa long
+-->19103 : Rouie Tuần lộc đáng yêu
+-->19104 : Rouie Vẹt cầu vồng
+-->19105 : Rouie Sứ giả quang minh
+-->19106 : Rouie Quang vinh
+-->19107 : Rouie [ex][DNT]
+-->19108 : Rouie Thụy mộc Thanh long
+-->19109 : Rouie Lữ hành Thời không
+-->19110 : Rouie [ex]
+-->19111 : Rouie [ex]
+-->19112 : Rouie [ex]
+-->19113 : Rouie [ex]
+-->19114 : Rouie [ex]
+-->19115 : Rouie [ex]
+-->19116 : Rouie [ex]
+-->
+####
+192_HuangZhong
+-->19201 : Celica Nữ cao bồi
+-->19202 : Celica Đếm cừu
+-->19203 : Celica S - Quang vinh
+-->19204 : Celica Tâm hồn trà sữa
+-->19205 : Celica Biệt đội băng lam
+-->19206 : Celica [ex][DNT]
+-->19207 : Celica [ex][DNT]
+-->19208 : Celica [ex][DNT]
+-->19209 : Celica [ex][DNT]
+-->19210 : Celica [ex]
+-->19211 : Celica [ex]
+-->19212 : Celica [ex]
+-->
+####
+193_LaFeiEr
+-->19301 : Amily Đặc cảnh NYPD
+-->19302 : Amily Đặc công Nhện đỏ
+-->19303 : Amily Thư ký
+-->19304 : Amily Thỏ may mắn
+-->19305 : Amily Võ thần thiên hà
+-->19306 : Amily Hội ám hoàng
+-->19307 : Amily Nữ đội trưởng
+-->19308 : Amily [ex][DNT]
+-->19309 : Amily [ex][DNT]
+-->19310 : Amily Khủng long xanh
+-->19311 : Amily [ex]
+-->19312 : Amily [ex]
+-->19313 : Amily [ex]
+-->19314 : Amily [ex]
+-->19315 : Amily [ex]
+-->19316 : Amily [ex]
+-->19317 : Amily [ex]
+-->
+####
+194_SuLie
+-->19401 : Wiro [ex][DNT]
+-->19402 : Wiro [ex][DNT]
+-->19403 : Wiro [ex][DNT]
+-->19404 : Wiro [ex][DNT]
+-->19405 : Wiro [ex][DNT]
+-->19406 : Wiro [ex][DNT]
+-->19407 : Wiro [ex][DNT]
+-->19408 : Wiro [ex][DNT]
+-->19409 : Wiro [ex][DNT]
+-->
+####
+195_BaiLiXuanCe
+-->19501 : Enzo Phẩm chất quý tộc
+-->19502 : Enzo Chiến binh trăng khuyết
+-->19503 : Enzo Thần thoại Hy Lạp
+-->19504 : Enzo Nhà leo núi
+-->19505 : Enzo Hồng hạc thị vệ
+-->19506 : Enzo Sát quỷ đoàn
+-->19507 : Enzo [ex][DNT]
+-->19508 : Enzo Kurapika
+-->19509 : Enzo Sát thần Bạch Hổ
+-->19510 : Enzo [ex]
+-->19511 : Enzo [ex]
+-->19512 : Enzo [ex]
+-->19513 : Enzo [ex]
+-->19514 : Enzo [ex]
+-->19515 : Enzo [ex]
+-->19516 : Enzo [ex]
+-->
+####
+196_Elsu
+-->19601 : Elsu Cảnh vệ thảo nguyên
+-->19602 : Elsu Mafia
+-->19603 : Elsu Guitar tình ái
+-->19604 : Elsu Chiến binh bóng tối
+-->19605 : Elsu Sứ giả tận thế
+-->19606 : Elsu Tuyết ưng
+-->19607 : Elsu Xạ thủ tinh linh
+-->19608 : Elsu [ex][DNT]
+-->19609 : Elsu Trấn Thiên phi hồ
+-->19610 : Elsu [ex]
+-->19611 : Elsu Hỏa diệm Chu Tước
+-->19612 : Elsu Tuyệt ảnh
+-->19613 : Elsu DJ <Siêu Đẳng>
+-->19614 : Elsu [ex]
+-->19615 : Elsu [ex]
+-->19616 : Elsu [ex]
+-->19617 : Elsu [ex]
+-->19618 : Elsu [ex]
+-->19619 : Elsu [ex]
+-->
+####
+199_Li
+-->19901 : Elando'rr Soái tặc
+-->19902 : Elando'rr Phi vụ thế kỷ
+-->19903 : Elando'rr Học viện Carano
+-->19904 : Elando'rr Siêu thám tử
+-->19905 : Elando'rr Chú ong bay cao
+-->19906 : Elando'rr Tuxedo Mask
+-->19907 : Elando'rr Uyên Ương mộng điệp
+-->19908 : Elando'rr [ex][DNT]
+-->19909 : Elando'rr [ex][DNT]
+-->19910 : Eland'oor [ex]
+-->19911 : Eland'oor [ex]
+-->19912 : Eland'oor [ex]
+-->19913 : Eland'oor [ex]
+-->19914 : Eland'oor [ex]
+-->19915 : Eland'oor [ex]
+-->
+####
+206_XiaLuoTe
+-->20601 : Charlotte Hexsword
+-->
+####
+501_TelAnnas
+-->50101 : Tel'Annas Cảnh vệ rừng
+-->50102 : Tel'Annas Giám thị thân thiện
+-->50103 : Tel'Annas Chung tình tiễn
+-->50104 : Tel'Annas Thánh nữ mật hội
+-->50105 : Tel'Annas Thần sứ F.E.E-X1
+-->50106 : Tel'Annas Cẩm y vệ: Phi ưng
+-->50107 : Tel'Annas Dạ hội
+-->50108 : Tel'Annas Thứ nguyên vệ thần
+-->50110 : Tel'Annas Công chúa mộng mơ
+-->50111 : Tel'Annas Vũ khúc yêu hồ
+-->50112 : Tel'Annas Tân niên vệ thần
+-->50113 : Tel'Annas Nghìn lẻ một đêm
+-->50114 : Tel'Annas Quang vinh
+-->50115 : Tel'annas Bách hoa tiên nữ
+-->50116 : Tel'annas Ô Thước tiên nữ
+-->50117 : Tel'annas Thiên Vũ Thần Long
+-->50118 : Tel'annas Jujutsu Socerer
+-->50119 : Tel'annas [ex]
+-->
+####
+502_Astrid
+-->50201 : Astrid Bạch kiếm tiểu thư
+-->50202 : Astrid Siêu sao bóng chày
+-->50203 : Astrid Tổ trưởng học đường
+-->50204 : Astrid Thần thoại Hy Lạp
+-->50205 : Astrid Nữ tổng tài
+-->50206 : Astrid Thần trí tuệ
+-->50207 : Astrid Xứ sở diệu kỳ
+-->50208 : Astrid [ex][DNT]
+-->50209 : Astrid [ex][DNT]
+-->50210 : Astrid [ex]
+-->50211 : Astrid [ex]
+-->50212 : Astrid [ex]
+-->50213 : Astrid [ex]
+-->50214 : Astrid [ex]
+-->50215 : Astrid [ex]
+-->50216 : Astrid [ex]
+-->
+####
+503_Zuka
+-->50301 : Zuka Zuka
+-->50302 : Zuka Đại phú ông
+-->50303 : Zuka Giáo sư sừng sỏ
+-->50304 : Zuka Phát tài
+-->50306 : Zuka Diệt nguyệt nguyên soái
+-->50307 : Zuka Đầu bếp hoàng cung
+-->50308 : Zuka Mãnh hổ
+-->50309 : Zuka Rapper Big Panda
+-->50310 : Zuka Ngư ông đắc lợi
+-->50311 : Zuka [ex]
+-->50312 : Zuka [ex]
+-->50313 : Zuka [ex]
+-->50314 : Zuka [ex]
+-->50315 : Zuka [ex]
+-->50316 : Zuka [ex]
+-->50317 : Zuka [ex]
+-->50318 : Zuka [ex]
+-->50319 : Zuka [ex]
+-->
+####
+504_WonderWoman
+-->50401 : Wonder Woman Thế chiến
+-->50402 : Wonder Woman [ex][DNT]
+-->50403 : Wonder Woman [ex][DNT]
+-->50404 : Wonder Woman [ex][DNT]
+-->50405 : Wonder Woman [ex][DNT]
+-->50406 : Wonder Woman [ex][DNT]
+-->50407 : Wonder Woman [ex][DNT]
+-->50408 : Wonder Woman [ex][DNT]
+-->50409 : Wonder Woman [ex][DNT]
+-->
+####
+505_Baldum
+-->50501 : Baldum Chú thợ ống nước
+-->50502 : Baldum Liệt hỏa dung nham
+-->50503 : Baldum Thần thoại Hy Lạp
+-->50504 : Baldum Thế giới kẹo ngọt
+-->50505 : Baldum Đồ chơi
+-->50506 : Baldum [ex][DNT]
+-->50507 : Baldum [ex][DNT]
+-->50508 : Baldum [ex][DNT]
+-->50509 : Baldum [ex][DNT]
+-->50510 : Baldum [ex]
+-->50511 : Baldum [ex]
+-->50512 : Baldum [ex]
+-->50513 : Baldum [ex]
+-->50514 : Baldum [ex]
+-->50515 : Baldum [ex]
+-->
+####
+506_DarkKnight
+-->50601 : Omen Sĩ quan viễn chinh
+-->50602 : Omen Ám tử đao
+-->50603 : Omen Quỷ nguyệt tướng
+-->50604 : Omen Đao phủ tận thế
+-->50605 : Omen Chiến binh trăng khuyết
+-->50606 : Omen Thuyền trưởng hải tặc
+-->50607 : Omen Nhạc sĩ huyền thoại
+-->50608 : Omen Quái Kiệt Guitar
+-->50609 : Omen [ex][DNT]
+-->50610 : Omen Huyết ảnh Tà thần
+-->50611 : Omen Chiến xa hắc ám
+-->50612 : Omen Chiến xa quang minh
+-->50613 : Omen [ex]
+-->50614 : Omen [ex]
+-->50615 : Omen [ex]
+-->50616 : Omen [ex]
+-->50617 : Omen [ex]
+-->50618 : Omen [ex]
+-->50619 : Omen [ex]
+-->
+####
+507_Flash
+-->50701 : The Flash Tia chớp tương lai
+-->50702 : The Flash [ex][DNT]
+-->50703 : The Flash [ex][DNT]
+-->50704 : The Flash [ex][DNT]
+-->50705 : The Flash [ex][DNT]
+-->50706 : The Flash [ex][DNT]
+-->50707 : The Flash [ex][DNT]
+-->50708 : The Flash [ex][DNT]
+-->50709 : The Flash [ex][DNT]
+-->
+####
+508_Zhadanren
+-->50801 : Wisp Hải tặc nhí
+-->50802 : Wisp Thỏ siêu quậy
+-->50803 : Wisp Ếch nhồi bông
+-->50804 : Wisp [ex]未命名
+-->50805 : Wisp Máy phát quà
+-->50806 : Wisp Rồng đi bộ
+-->50807 : Wisp Cô bé bút chì
+-->50808 : Wisp [ex][DNT]
+-->50809 : Wisp [ex][DNT]
+-->50810 : Wisp [ex]
+-->50811 : Wisp [ex]
+-->50812 : Wisp [ex]
+-->50813 : Wisp [ex]
+-->50814 : Wisp [ex]
+-->50815 : Wisp [ex]
+-->50816 : Wisp [ex]
+-->50817 : Wisp [ex]
+-->
+####
+509_Ybneth
+-->50901 : Y'bneth Hạt trưởng kiểm lâm
+-->50902 : Y'bneth Chiến binh lục bảo
+-->50903 : Y'bneth Động cơ vĩnh cửu
+-->50904 : Y'bneth Mộc quỷ
+-->50905 : Y'bneth Titan Băng giá
+-->50906 : Y'bneth Động cơ vĩnh cửu
+-->50907 : Y'bneth [ex][DNT]
+-->50908 : Y'bneth [ex][DNT]
+-->50909 : Y'bneth [ex][DNT]
+-->50910 : Y'Bneth [ex]
+-->50911 : Y'Bneth [ex]
+-->50912 : Y'Bneth [ex]
+-->50913 : Y'Bneth [ex]
+-->50914 : Y'Bneth [ex]
+-->50915 : Y'Bneth [ex]
+-->50916 : Y'Bneth [ex]
+-->
+####
+510_Liliana
+-->51001 : Liliana Hồ quý phi
+-->51002 : Liliana Thần tượng âm nhạc
+-->51003 : Liliana Nguyệt mị ly
+-->51004 : Liliana Tiểu thơ anh đào
+-->51005 : Liliana Tân nguyệt mị ly
+-->51006 : Liliana Nữ thần F1
+-->51007 : Liliana Tiệc bãi biển
+-->51008 : Liliana Thủy thủ hồ ly
+-->51009 : Liliana WaVe
+-->51010 : Liliana [ex][DNT]
+-->51011 : Liliana [ex][DNT]
+-->51012 : Liliana [ex][DNT]
+-->51013 : Liliana Lưu thủy Thần long
+-->51014 : Liliana Thần hổ Xiêm La
+-->51015 : Liliana Ma Pháp Tối Thượng
+-->51016 : Liliana [ex]
+-->51017 : Liliana [ex]
+-->51018 : Liliana [ex]
+-->51019 : Liliana [ex]
+-->
+####
+511_ZhuBaJie
+-->51101 : Ata Tân thủy thủ
+-->51102 : Ata Cao bồi
+-->51103 : Ata Quang vinh
+-->51104 : Ata Mèo đi mưa
+-->51105 : Ata Chiến binh hải tộc
+-->51106 : Ata [ex][DNT]
+-->51107 : Ata [ex][DNT]
+-->51108 : Ata Gà mờ
+-->51109 : Ata Giao long
+-->51110 : Ata [ex]
+-->51111 : Ata [ex]
+-->51112 : Ata [ex]
+-->51113 : Ata [ex]
+-->51114 : Ata [ex]
+-->
+####
+512_Rourke
+-->51201 : Rourke Pháo thủ tuộc neo
+-->51202 : Rourke Biệt đội siêu hùng
+-->51203 : Rourke Cuồng tặc
+-->51204 : Rourke Thợ cơ khí
+-->51205 : Rourke [ex][DNT]
+-->51206 : Rourke [ex][DNT]
+-->51207 : Rourke Cảnh sát trưởng
+-->51208 : Rourke Bách tướng Lão đại
+-->51209 : Rourke [ex][DNT]
+-->
+####
+513_ShuSheng
+-->51301 : Zata Tư lệnh viễn chinh
+-->51302 : Zata Sứ giả tinh hệ
+-->51303 : Zata Thần mặt trời
+-->51304 : Zata Khiêu chiến
+-->51305 : Zata Tác gia đương đại
+-->51306 : Zata Chí tôn Tà phượng
+-->51307 : Zata Xích Huyết Bá Tước
+-->51308 : Zata [ex][DNT]
+-->51309 : Zata [ex][DNT]
+-->
+####
+514_Roxi
+-->51401 : Roxie Thám tử tập sự
+-->51402 : Roxie Kèn ái tình
+-->51403 : Roxie Hầu gái
+-->51404 : Roxie Tiệc bánh kẹo
+-->51405 : Roxie Cháy phố
+-->51406 : Roxie Lễ hội hoa
+-->51407 : Roxie [ex][DNT]
+-->51408 : Roxie Hỏa thuật sư
+-->51409 : Roxie [ex][DNT]
+-->
+####
+515_Richter
+-->51501 : Richter Bá tước
+-->51502 : Richter Thống soái kháng chiến
+-->51503 : Richter Dạ hội
+-->51504 : Richter Thần kiếm Susanoo
+-->51505 : Richter Quang vinh 2.0
+-->51506 : Richter Nguyệt loan đao
+-->51507 : Richter [ex][DNT]
+-->51508 : Richter Cứu hộ
+-->51509 : Richter [ex][DNT]
+-->
+####
+518_Quillen
+-->51801 : Quillen Trưởng ngoại khoa
+-->51802 : Quillen Đặc công mãng xà
+-->51803 : Quillen Thống soái đế chế
+-->51804 : Quillen Huyết thủ nguyệt tộc
+-->51805 : Quillen Sao đỏ học đường
+-->51806 : Quillen Tà linh ma đao
+-->51807 : Quillen Hoàng kim soái vương
+-->51808 : Quillen Nghịch Thiên long đế
+-->51809 : Quillen Người gác đền
+-->51810 : Quillen Giám đốc âm nhạc
+-->51811 : Quillen [ex]
+-->51812 : Quillen Huyết phong
+-->51813 : Quillen [ex]
+-->51814 : Quillen [ex]
+-->
+####
+519_Annette
+-->51901 : Annette Nữ quản ga
+-->51902 : Annette Xứ sở thần tiên
+-->51903 : Annette Thần tượng âm nhạc
+-->51904 : Annette Tiệc bãi biển
+-->51905 : Annette Phi hành gia
+-->51906 : Annette Vân Mộng tiên tử
+-->51907 : Annette Nữ sinh Trung học
+-->51908 : Annette Chị ong bay thấp
+-->51909 : Annette Tiên tri tập sự
+-->51910 : Annette [ex]
+-->51911 : Annette Băng kỳ lâm
+-->51912 : Annette [ex]
+-->51913 : Annette [ex]
+-->51914 : Annette [ex]
+-->
+####
+520_Veres
+-->52001 : Veres Đạo tặc
+-->52002 : Veres Gián điệp tinh hệ
+-->52003 : Veres Thần thoại Hy Lạp
+-->52004 : Veres Chị đại học đường
+-->52005 : Veres [ex][DNT]
+-->52006 : Veres Thuỷ thần kiều diễm
+-->52007 : Veres Kimono
+-->52008 : Veres Phù thủy trang điểm
+-->52009 : Veres Tiệc bãi biển
+-->52010 : Veres Men Lam Hồn Gốm
+-->52011 : Veres Lưu Ly Long Mẫu
+-->52012 : Veres Vũ điệu dân gian
+-->
+####
+521_Florentino
+-->52101 : Florentino Vũ kiếm sư
+-->52102 : Florentino Giám sát tinh Hệ
+-->52103 : Florentino Kiếm sĩ Olympic
+-->52104 : Florentino Thần thoại Hy Lạp
+-->52105 : Florentino Seven
+-->52106 : Florentino Tà long kiếm sĩ
+-->52107 : Florentino Xứ sở thần tiên
+-->52108 : Florentino Bá vương Âm nhạc
+-->52109 : Florentino [ex][DNT]
+-->52110 : Florentino Hisoka
+-->52111 : Florentino Hỏa diệm Thần long
+-->
+####
+522_Errol
+-->52201 : Errol Vượt ngục
+-->52202 : Errol Diệt nguyệt tiên phong
+-->52203 : Errol Quái vật cương thi
+-->52204 : Errol Genos
+-->52205 : Errol Huyết thủ Tu La
+-->52206 : Errol [ex][DNT]
+-->52207 : Errol Stream đến bao giờ
+-->52208 : Errol Sát thủ Mafia
+-->52209 : Errol [ex][DNT]
+-->
+####
+523_Darcy
+-->52301 : D'Arcy Nam tước
+-->52302 : D'Arcy Đô đốc tinh Hệ
+-->52303 : D'Arcy Pháp sư hỏa long
+-->52304 : D'Arcy Tiến sĩ thiên tài
+-->52305 : D'Arcy Chân nhân
+-->52306 : D’Arcy Tông đồ Chân lý
+-->52307 : D’Arcy [ex][DNT]
+-->52308 : D’Arcy [ex][DNT]
+-->52309 : D’Arcy [ex][DNT]
+-->
+####
+524_Capheny
+-->52401 : Capheny Hầu gái
+-->52402 : Capheny Thần tượng âm nhạc
+-->52403 : Capheny Toán Hóa Sinh
+-->52404 : Capheny Kimono
+-->52405 : Capheny Siêu cấp tin tặc
+-->52406 : Capheny Phi hành gia
+-->52407 : Capheny Harley Quinn
+-->52408 : Capheny Quân nhạc Mildar
+-->52409 : Capheny [ex][DNT]
+-->52410 : Capheny Tử đinh hương
+-->52411 : Capheny Vua trò chơi
+-->52412 : Capheny S - Quang vinh
+-->52413 : Capheny Huyết phong
+-->52414 : Capheny 52414
+-->
+####
+525_Driver
+-->52501 : Zip Gà siêu quậy
+-->52502 : Zip Tiểu đệ hổ báo
+-->52503 : Zip Cá siêu quậy
+-->52504 : Zip Gà siêu cấp
+-->52505 : Zip Vua sân cỏ
+-->52506 : Zip Ông trùm Giáng sinh
+-->52507 : Zip Duyên tơ hồng
+-->52508 : Zip [ex][DNT]
+-->52509 : Zip [ex][DNT]
+-->
+####
+526_Summoner
+-->52601 : Ishar Giấc mơ ngọt ngào
+-->52602 : Ishar Tiểu thư kẹo ngọt
+-->52603 : Ishar Tiểu thư gấu trúc
+-->52604 : Ishar Lễ hội ma quái
+-->52605 : Ishar Gián điệp hacker
+-->52606 : Ishar Lễ hội ma quái
+-->52607 : Ishar Tiểu thư
+-->52608 : Ishar Rồng bé bự
+-->52609 : Ishar Quận chúa sông Nile
+-->52610 : Ishar [ex][DNT]
+-->52611 : Ishar [ex][DNT]
+-->52612 : Ishar [ex][DNT]
+-->52613 : Ishar [ex][DNT]
+-->52614 : Ishar [ex][DNT]
+-->
+####
+527_Sephera
+-->52701 : Sephera Quý tiểu thư
+-->52702 : Sephera Chiêm tinh gia
+-->52703 : Sephera Thần tượng âm nhạc
+-->52704 : Sephera Phi vụ thế kỷ
+-->52705 : Sephera Thần thoại Hy Lạp
+-->52706 : Sephera Lam Hải phu nhân
+-->52707 : Sephera Thủy liên hoa
+-->52708 : Sephera Cô thủ thư
+-->52709 : Sephera Bách nhạn Ngân linh
+-->52710 : Sephera Nova Stardust
+-->
+####
+528_DaMo
+-->52801 : Qi Tiểu long
+-->52802 : Qi Đặc vụ cáo tuyết
+-->52803 : Qi Quán quân
+-->52804 : Qi Thiếu nữ pháo hoa
+-->52805 : Qi Blogger Ẩm thực
+-->52806 : Qi Búp bê Daruma
+-->52807 : Qi [ex][DNT]
+-->52808 : Qi Thần phong Hiệp nữ
+-->52809 : Qi [ex][DNT]
+-->
+####
+529_Volkath
+-->52901 : Volkath Dạ huyết tộc
+-->52902 : Volkath Ma kỵ tử sĩ
+-->52903 : Volkath Xung thiên thần tướng
+-->52904 : Volkath Tư lệnh viễn chinh
+-->52905 : Volkath Chiến thần Ai Cập
+-->52906 : Volkath Hắc kỵ thời không
+-->52907 : Volkath S - Quang vinh
+-->52908 : Volkath [ex][DNT]
+-->52909 : Volkath [ex][DNT]
+-->
+####
+530_Dirak
+-->53001 : Dirak Cảnh vệ bầu trời
+-->53002 : Dirak Pháp sư trăng khuyết
+-->53003 : Dirak Quý tộc Norman
+-->53004 : Dirak [ex][DNT]
+-->53005 : Dirak Ông bầu Showbiz
+-->53006 : Dirak [ex][DNT]
+-->53007 : Dirak Đường chủ yêu giới
+-->53008 : Dirak [ex][DNT]
+-->53009 : Dirak [ex][DNT]
+-->
+####
+531_Keera
+-->53101 : Keera Y tá lạ
+-->53102 : Keera Học viện Carano
+-->53103 : Keera Sát thủ bí ngô
+-->53104 : Keera Thủy thủ
+-->53105 : Keera Tiệc bãi biển
+-->53106 : Keera [ex][DNT]
+-->53107 : Keera Nezuko Kamado
+-->53108 : Keera [ex][DNT]
+-->53109 : Keera Nghệ sĩ Graffiti
+-->53110 : Keera Hồ điệp
+-->53111 : Keera Môn đồ Xảo quyệt
+-->
+####
+532_Genius
+-->53201 : Thorne Cận vệ hoàng gia
+-->53202 : Thorne Giả kim thuật sư
+-->53203 : Thorne Quán quân
+-->53204 : Thorne Tiệc bãi biển
+-->53205 : Thorne Ước nguyện Giáng sinh
+-->53206 : Thorne [ex][DNT]
+-->53207 : Thorne [ex][DNT]
+-->53208 : Thorne [ex][DNT]
+-->53209 : Thorne [ex][DNT]
+-->
+####
+533_HouYi
+-->53301 : Laville Tay đua đường phố
+-->53302 : Laville Tay súng diệt thần
+-->53303 : Laville Tay súng vô địch
+-->53304 : Laville Xạ thần Tinh Vệ
+-->53305 : Laville Kim Quy thần vương
+-->53306 : Laville Tiệc bãi biển
+-->53307 : Laville Sắc màu Holi
+-->53308 : Laville Chiến thần MOBA
+-->53309 : Laville Vệ binh Giáng sinh
+-->53310 : Laville Thám tử học đường
+-->
+####
+534_Grantwish
+-->53401 : Dextra Chiến binh quyến rũ
+-->53402 : Dextra Quận chúa Tuyết
+-->53403 : Dextra [ex][DNT]
+-->53404 : Dextra Quý cô tuổi Dần
+-->53405 : Dextra Băng Sa công chúa
+-->53406 : Dextra Lữ khách cao nguyên
+-->53407 : Dextra [ex][DNT]
+-->53408 : Dextra [ex][DNT]
+-->53409 : Dextra [ex][DNT]
+-->
+####
+535_Wish
+-->53501 : Sinestrea Giấc mơ trưa
+-->53502 : Sinestrea Tiểu thư Băng giá
+-->53503 : Sinestrea WaVe
+-->53504 : Sinestrea Điệp viên cánh cụt
+-->53505 : Sinestrea [ex][DNT]
+-->53506 : Sinestrea [ex][DNT]
+-->53507 : Sinestrea Đại tiểu thư
+-->53508 : Sinestrea Tiểu thư bóng đêm
+-->53509 : Sinestrea Lữ khách sa mạc
+-->53510 : Sinestrea Giấc mộng biển xanh
+-->53511 : Sinestrea S - Quang vinh
+-->
+####
+536_Ninja
+-->53601 : Aoi Sát thủ đô thị
+-->53602 : Aoi Hoàng kim công chúa
+-->53603 : Aoi [ex][DNT]
+-->53604 : Aoi Tiệc bãi biển
+-->53605 : Aoi Lam Hải quận chúa
+-->53606 : Aoi Tiểu thư Mafia
+-->53607 : Aoi [ex][DNT]
+-->53608 : Aoi Sát thủ Dạ Ưng
+-->53609 : Aoi Quán Quân
+-->
+####
+537_Trip
+-->53701 : Allain Hắc kiếm sĩ Kirito
+-->53702 : Allain Kirito
+-->53703 : Allain Tuyết sơn song kiếm
+-->53704 : Allain Thần mặt trời
+-->53705 : Allain Bạch kiếm sĩ
+-->53706 : Allain Hạo Thiên Khuyển
+-->53707 : Allain Tình yêu nổi loạn
+-->53708 : Allain Lân sư Vũ thần
+-->53709 : Allain [ex][DNT]
+-->
+####
+538_Iggy
+-->53801 : Iggy Tiểu hoàng đế
+-->53802 : Iggy Thần Miêu thiếu chủ
+-->53803 : Iggy Bạch hồ ly
+-->53804 : Iggy Yêu nhân học viện
+-->53805 : Iggy Tiếng thét Hỗn mang
+-->53806 : Iggy [ex][DNT]
+-->53807 : Iggy [ex][DNT]
+-->53808 : Iggy [ex][DNT]
+-->53809 : Iggy [ex][DNT]
+-->
+####
+539_Nott
+-->53901 : Lorion Chiến giáp hắc ám
+-->53902 : Lorion Hỏa vân tà thần
+-->53903 : Lorion Quân vương bóng tối
+-->53904 : Lorion Quân vương ánh sáng
+-->53905 : Lorion [ex][DNT]
+-->53906 : Lorion [ex][DNT]
+-->53907 : Lorion [ex][DNT]
+-->53908 : Lorion [ex][DNT]
+-->53909 : Lorion [ex][DNT]
+-->
+####
+540_Bright
+-->54001 : Bright Soái ca thánh điện
+-->54002 : Bright Toshiro Hitsugaya
+-->54003 : Bright Khiêu chiến
+-->54004 : Bright Mật vụ hacker
+-->54005 : Bright Nhà thám hiểm
+-->54006 : Bright Kỳ Lân soái
+-->54007 : Bright Vua về nhì
+-->54008 : Bright [ex][DNT]
+-->54009 : Bright [ex][DNT]
+-->
+####
+541_Bonnie
+-->54101 : Bonnie Thỏ ma quái
+-->54102 : Bonnie Cô bé sợ ma
+-->54103 : Bonnie [ex][DNT]
+-->54104 : Bonnie [ex][DNT]
+-->54105 : Bonnie [ex][DNT]
+-->54106 : Bonnie [ex][DNT]
+-->54107 : Bonnie [ex][DNT]
+-->54108 : Bonnie [ex][DNT]
+-->54109 : Bonnie [ex][DNT]
+-->
+####
+542_Tachi
+-->54201 : Tachi Lãng khách
+-->54202 : Tachi Đao khách vô tình
+-->54203 : Tachi Xích long hỏa diệm
+-->54204 : Tachi S - Quang vinh
+-->54205 : Tachi Thần phong Hộ vệ
+-->54206 : Tachi Hỗn mang đao
+-->54207 : Tachi [ex][DNT]
+-->54208 : Tachi [ex][DNT]
+-->54209 : Tachi [ex][DNT]
+-->
+####
+543_Yao
+-->54301 : Aya Hoạt náo viên
+-->54302 : Aya Điệp viên ký ức
+-->54303 : Aya MC Sóc nhỏ
+-->54304 : Aya Thủy thủ
+-->54305 : Aya [ex][DNT]
+-->54306 : Aya [ex][DNT]
+-->54307 : Aya Công chúa Cầu Vồng
+-->54308 : Aya Hỏa Hồ Tiên Ngư
+-->54309 : Aya [ex][DNT]
+-->
+####
+544_Painter
+-->54401 : Yan Nhà chế tác
+-->54402 : Yan Tanjiro Kamado
+-->54403 : Yan Công tước Norman
+-->54404 : Yan Giấc mơ sao
+-->54405 : Yan Bích Hạc Phiên Vân
+-->54406 : [ex][DNT] [ex][DNT]
+-->54407 : [ex][DNT] [ex][DNT]
+-->54408 : [ex][DNT] [ex][DNT]
+-->54409 : [ex][DNT] [ex][DNT]
+-->
+####
+545_Aim
+-->54501 : Yue Tiểu công chúa
+-->54502 : Yue [ex][DNT]
+-->54503 : Yue Chiêm tinh gia
+-->54504 : Yue Vũ phiến hỏa diệm
+-->54505 : Yue Nữ hoàng Băng giá
+-->54506 : Yue [ex][DNT]
+-->54507 : Yue [ex][DNT]
+-->54508 : Yue [ex][DNT]
+-->54509 : Yue [ex][DNT]
+-->
+####
+546_Hecate
+-->54601 : Teeri Tiểu kỳ lân
+-->54602 : Teeri Minh tinh ảo thuật
+-->54603 : Teeri Thuyền trưởng song luân
+-->54604 : [Thử nghiệm]Mercury [ex][DNT]
+-->54605 : Teeri Ốc quế ngọt ngào
+-->54606 : [ex][DNT] [ex][DNT]
+-->54607 : [ex][DNT] [ex][DNT]
+-->54608 : [ex][DNT] [ex][DNT]
+-->54609 : [ex][DNT] [ex][DNT]
+-->
+####
+548_SunCe
+-->54801 : Bijan Chiến binh sa mạc
+-->54802 : Bijan Hoàng Kim cơ giáp
+-->54803 : Bijan Đập vỡ Cây đàn
+-->54804 : Bijan Kình thiên Long Kỵ
+-->54805 : [ex] [ex]
+-->54806 : [ex] [ex]
+-->54807 : [ex] [ex]
+-->54808 : [ex] [ex]
+-->54809 : [ex] [ex][DNT]
+-->
+####
+567_AiLin
+-->56701 : Erin Mộc tinh linh
+-->56702 : Erin Cực địa tinh linh
+-->56703 : Erin Tình yêu cổ tích
+-->56704 : Erin Huyễn Ảnh Mị Điệp
+-->
+####
+568_MingShiYin
+-->56801 : Ming Thầy tướng
+-->56802 : Ming [ex]
+-->
+####
+597_KuangTie
+-->59701 : Biron Võ sĩ Giác đấu
+-->59702 : Biron Yuji Itadori
+-->
+####
+598_DaSiKong
+-->59801 : Bolt Baron Lôi vệ
+-->59802 :  
+-->
+####
+599_LvMeng
+-->59901 :  
+-->

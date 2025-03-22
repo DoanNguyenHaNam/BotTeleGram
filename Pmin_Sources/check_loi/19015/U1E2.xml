@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <TemplateObjectList>
+    <TemplateObject objectName="攻击者" id="0" isTemp="false" />
+    <TemplateObject objectName="target" id="1" isTemp="false" />
+    <TemplateObject objectName="bullet" id="2" isTemp="true" />
+  </TemplateObjectList>
+  <RefParamList />
+  <Action tag="" length="0.400" loop="false">
+    <Track trackName="SpawnObjectDuration0" eventType="SpawnObjectDuration" guid="5a35bd9a-2254-4eed-9a97-f0f2bf34161d" enabled="true" useRefParam="false" refParamName="" r="0.000" g="0.000" b="0.000" execOnForceStopped="false" execOnActionCompleted="false" stopAfterLastEvent="true">
+      <Event eventName="SpawnObjectDuration" time="0.000" length="0.100" isDuration="true" guid="44bf0e80-2ae6-4401-97f1-9cd704c3a6de">
+        <TemplateObject name="targetId" objectName="bullet" id="2" isTemp="true" refParamName="" useRefParam="false" />
+        <TemplateObject name="objectSpaceId" objectName="target" id="1" isTemp="false" refParamName="" useRefParam="false" />
+        <bool name="bLayOnNavMesh" value="true" refParamName="" useRefParam="false" />
+      </Event>
+    </Track>
+    <Track trackName="19015" eventType="CheckSkinIdVirtualTick" guid="037b1b34-980e-4d12-a163-2d29437c98b4" enabled="true" useRefParam="false" refParamName="" r="0.000" g="0.000" b="0.000" execOnForceStopped="false" execOnActionCompleted="false" stopAfterLastEvent="true">
+      <Event eventName="CheckSkinIdVirtualTick" time="0.000" isDuration="false" guid="55d6acf6-6c32-4c3a-8721-daabce10f508">
+        <TemplateObject name="targetId" objectName="攻击者" id="0" isTemp="false" refParamName="" useRefParam="false" />
+        <int name="skinId" value="19092" refParamName="" useRefParam="false" />
+        <bool name="useNegateValue" value="true" refParamName="" useRefParam="false" />
+      </Event>
+    </Track>
+    <Track trackName="非19015" eventType="CheckSkinIdVirtualTick" guid="c1bd8b54-5885-4348-b490-67a5bde9584e" enabled="true" useRefParam="false" refParamName="" r="0.000" g="0.000" b="0.000" execOnForceStopped="false" execOnActionCompleted="false" stopAfterLastEvent="true">
+      <Event eventName="CheckSkinIdVirtualTick" time="0.000" isDuration="false" guid="59fa6a7a-951b-445a-a12c-05fa0b730d9c">
+        <TemplateObject name="targetId" objectName="攻击者" id="0" isTemp="false" refParamName="" useRefParam="false" />
+        <int name="skinId" value="19092" refParamName="" useRefParam="false" />
+        <bool name="useNegateValue" value="false" refParamName="" useRefParam="false" />
+      </Event>
+    </Track>
+    <Track trackName="TriggerParticleTick3" eventType="TriggerParticleTick" guid="d5f4ff3b-4cc9-481a-9cf0-3f6ecb32d94e" enabled="true" useRefParam="false" refParamName="" r="0.000" g="0.000" b="0.000" execOnForceStopped="false" execOnActionCompleted="false" stopAfterLastEvent="true">
+      <Condition id="2" guid="c1bd8b54-5885-4348-b490-67a5bde9584e" status="true" />
+      <Event eventName="TriggerParticleTick" time="0.000" isDuration="false" guid="0d2d89a1-6a57-44ee-80b1-c00a4738abb6">
+        <TemplateObject name="targetId" objectName="None" id="-1" isTemp="false" refParamName="" useRefParam="false" />
+        <TemplateObject name="objectSpaceId" objectName="target" id="1" isTemp="false" refParamName="" useRefParam="false" />
+        <String name="resourceName" value="prefab_skill_effects/hero_skill_effects/190_zhugeliang/19015/zhugeliang_hurt01_spell04" refParamName="" useRefParam="false" />
+        <Vector3 name="bindPosOffset" x="0.000" y="1.000" z="0.000" refParamName="" useRefParam="false" />
+        <bool name="bBullerPosDir" value="true" refParamName="" useRefParam="false" />
+      </Event>
+    </Track>
+    <Track trackName="TriggerParticleTick3" eventType="TriggerParticleTick" guid="47cd1362-27ef-4fdc-a46c-4b71e69f53c9" enabled="true" useRefParam="false" refParamName="" r="0.000" g="0.000" b="0.000" execOnForceStopped="false" execOnActionCompleted="false" stopAfterLastEvent="true">
+      <Condition id="1" guid="037b1b34-980e-4d12-a163-2d29437c98b4" status="true" />
+      <Event eventName="TriggerParticleTick" time="0.000" isDuration="false" guid="d4b21fce-0969-4a58-8814-fbce91495b89">
+        <TemplateObject name="targetId" objectName="None" id="-1" isTemp="false" refParamName="" useRefParam="false" />
+        <TemplateObject name="objectSpaceId" objectName="bullet" id="2" isTemp="true" refParamName="" useRefParam="false" />
+        <String name="resourceName" value="prefab_skill_effects/hero_skill_effects/190_zhugeliang/19015/zhugeliang_hurt01_spell04" refParamName="" useRefParam="false" />
+        <Vector3 name="bindPosOffset" x="0.000" y="1.000" z="0.000" refParamName="" useRefParam="false" />
+        <bool name="bBullerPosDir" value="true" refParamName="" useRefParam="false" />
+      </Event>
+    </Track>
+    <Track trackName="SkillFuncInstant0" eventType="SkillFuncInstant" guid="bfb17786-2133-4c3a-9b28-5939792ce49c" enabled="true" useRefParam="false" refParamName="" r="0.000" g="0.000" b="0.000" execOnForceStopped="false" execOnActionCompleted="false" stopAfterLastEvent="true">
+      <Event eventName="SkillFuncInstant" time="0.000" isDuration="false" guid="bb90d1a3-aff3-42ac-b2dd-8453d5eca845">
+        <Enum name="SkillFuncType" value="1" EnumValue="法术伤害" refParamName="" useRefParam="false" />
+      </Event>
+    </Track>
+    <Track trackName="PlayHeroSoundTick0" eventType="PlayHeroSoundTick" guid="d47ced57-d098-4405-a27e-045ba6b0efd1" enabled="true" useRefParam="false" refParamName="" r="0.000" g="0.000" b="0.000" execOnForceStopped="false" execOnActionCompleted="false" stopAfterLastEvent="true">
+      <Event eventName="PlayHeroSoundTick" time="0.000" isDuration="false" guid="6b29765e-48d3-4517-bb66-9d83f5916bb0">
+        <TemplateObject name="targetId" objectName="target" id="1" isTemp="false" refParamName="" useRefParam="false" />
+        <TemplateObject name="sourceId" objectName="攻击者" id="0" isTemp="false" refParamName="" useRefParam="false" />
+        <String name="eventName" value="Play_190_Tulen_Skill_C_Hit" refParamName="" useRefParam="false" />
+        <Array name="extraSkinId" refParamName="" useRefParam="false" type="uint">
+          <uint value="11" />
+          <uint value="12" />
+          <uint value="13" />
+          <uint value="14" />
+          <uint value="15" />
+        </Array>
+      </Event>
+    </Track>
+  </Action>
+</Project>

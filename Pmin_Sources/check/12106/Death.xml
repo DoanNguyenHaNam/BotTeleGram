@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <TemplateObjectList>
+    <TemplateObject objectName="self" id="0" isTemp="false" />
+  </TemplateObjectList>
+  <RefParamList />
+  <Action tag="" length="4.500" loop="false">
+    <Track trackName="非12106" eventType="CheckSkinIdVirtualTick" guid="aa460d87-8317-478a-a7a6-5f6039378c31" enabled="true" useRefParam="false" refParamName="" r="0.000" g="0.000" b="0.000" execOnForceStopped="false" execOnActionCompleted="false" stopAfterLastEvent="true">
+      <Event eventName="CheckSkinIdVirtualTick" time="0.000" isDuration="false" guid="c052e777-8343-48a6-8c8f-8aab4cc3a870">
+        <TemplateObject name="targetId" objectName="self" id="0" isTemp="false" refParamName="" useRefParam="false" />
+        <int name="skinId" value="12192" refParamName="" useRefParam="false" />
+        <bool name="useNegateValue" value="false" refParamName="" useRefParam="false" />
+      </Event>
+    </Track>
+    <Track trackName="PlayAnimationTick0" eventType="PlayAnimationTick" guid="786f1ad6-fd57-4adc-b724-9b335c23e7ad" enabled="true" useRefParam="false" refParamName="" r="0.000" g="0.000" b="0.000" execOnForceStopped="false" execOnActionCompleted="false" stopAfterLastEvent="true">
+      <Condition id="0" guid="aa460d87-8317-478a-a7a6-5f6039378c31" status="true" />
+      <Event eventName="PlayAnimationTick" time="0.000" isDuration="false" guid="a879e824-2328-4798-9e7c-52614a82fd08">
+        <TemplateObject name="targetId" objectName="self" id="0" isTemp="false" refParamName="" useRefParam="false" />
+        <String name="clipName" value="Dead" refParamName="" useRefParam="false" />
+        <float name="crossFadeTime" value="0.100" refParamName="" useRefParam="false" />
+        <int name="layer" value="0" refParamName="" useRefParam="false" />
+      </Event>
+    </Track>
+    <Track trackName="12106" eventType="CheckSkinIdVirtualTick" guid="c3524103-b5b9-4fcb-bb91-36f9105553de" enabled="true" useRefParam="false" refParamName="" r="0.000" g="0.000" b="0.000" execOnForceStopped="false" execOnActionCompleted="false" stopAfterLastEvent="true">
+      <Event eventName="CheckSkinIdVirtualTick" time="0.000" isDuration="false" guid="e653a847-239b-4875-8d19-c8e64417017c">
+        <TemplateObject name="targetId" objectName="self" id="0" isTemp="false" refParamName="" useRefParam="false" />
+        <int name="skinId" value="12192" refParamName="" useRefParam="false" />
+        <bool name="useNegateValue" value="true" refParamName="" useRefParam="false" />
+      </Event>
+    </Track>
+    <Track trackName="PlayAnimationTick0" eventType="PlayAnimationTick" guid="7634b60a-9278-40e6-a61c-242d0795d7e4" enabled="true" useRefParam="false" refParamName="" r="0.000" g="0.000" b="0.000" execOnForceStopped="false" execOnActionCompleted="false" stopAfterLastEvent="true">
+      <Condition id="2" guid="c3524103-b5b9-4fcb-bb91-36f9105553de" status="true" />
+      <Event eventName="PlayAnimationTick" time="0.000" isDuration="false" guid="b1f2f9ed-a8b9-472b-a8ed-103ac686f0d7">
+        <TemplateObject name="targetId" objectName="self" id="0" isTemp="false" refParamName="" useRefParam="false" />
+        <String name="clipName" value="Dead" refParamName="" useRefParam="false" />
+        <float name="crossFadeTime" value="0.100" refParamName="" useRefParam="false" />
+        <int name="layer" value="5" refParamName="" useRefParam="false" />
+      </Event>
+    </Track>
+    <Track trackName="PlayHeroSoundTick5" eventType="PlayHeroSoundTick" guid="229fee69-fd37-4113-be61-38081258c9de" enabled="true" useRefParam="false" refParamName="" r="0.000" g="0.000" b="0.000" execOnForceStopped="false" execOnActionCompleted="false" stopAfterLastEvent="true">
+      <Event eventName="PlayHeroSoundTick" time="0.000" isDuration="false" guid="fa7d27e9-cf9d-433c-a86b-602f5afe6c48">
+        <TemplateObject name="targetId" objectName="self" id="0" isTemp="false" refParamName="" useRefParam="false" />
+        <TemplateObject name="sourceId" objectName="self" id="0" isTemp="false" refParamName="" useRefParam="false" />
+        <String name="eventName" value="Play_marja_VOX_Dead" refParamName="" useRefParam="false" />
+      </Event>
+    </Track>
+  </Action>
+</Project>

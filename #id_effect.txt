@@ -1,0 +1,541 @@
+10504: Toro Ngưu hải vương
+10506: Toro Tử Lôi Thần Ngưu
+10603: Krixi Tiệc bãi biển
+10606: Krixi Tiểu yêu nữ
+10607: Krixi Hồ thiên nga
+10611: Krixi Lốc xoáy kinh hoàng Tatsumaki
+10613: Krixi Nàng tiên nổi loạn
+10615: Krixi Tiểu hồng mai
+10617: Krixi Quán quân
+10619: Krixi [ex][DNT]
+10620: Krixi Phù thủy thời không
+10621: Krixi Uyên Ương mộng điệp
+10703: Zephys Hiệp sĩ bí ngô
+10704: Zephys Dung nham
+10705: Zephys Siêu việt
+10708: Zephys Hắc vô thường
+10709: Zephys Inosuke Hashibira
+10713: Zephys [ex]
+10801: Gildur Tiệc bãi biển
+10806: Gildur Bác học thiên tài
+10807: Gildur Phù thủy Ba Tư
+10809: Gildur Xích Long
+10902: Veera Góa phụ giả kim
+10907: Veera Kimono
+10910: Veera Đánh cắp trái tim
+10911: Veera Dơi hắc ám
+10912: Veera A.I love you
+10914: Veera Phù thủy Hội họa
+10915: Veera [ex]
+11004: Kahlii Kim cô giáo chủ
+11009: Kahlii Rối nước Thủy đình
+11010: Kahlii [ex]
+11101: Violet Nữ hoàng pháo hoa
+11104: Violet Mèo siêu quậy
+11105: Violet Tiệc bãi biển
+11107: Violet Thứ nguyên vệ thần
+11108: Violet Pháo hoa Neon
+11110: Violet Vợ người ta
+11113: Violet Huyết ma thần
+11114: Violet Lam tước
+11115: Violet Thần Long tỷ tỷ
+11116: Violet DJ Câu hồn
+11119: Violet Vọng nguyệt Long Cơ
+11120:  
+11202:  
+11204: Yorn Phá Vân tiễn
+11205: Yorn Long thần soái
+11206: Yorn Nam thần giáng sinh
+11207: Yorn Soái ca học đường
+11211: Yorn Soái ca bãi biển
+11212: Yorn Vệ Binh ngân hà
+11214: Yorn Ký giả diệu kỳ
+11502: Jinna Dạ xoa vương
+11503: Jinna Hỏa nhãn ma vương
+11506: Jinna Kim giác
+11604: Butterfly Nữ quái nổi loạn
+11605: Butterfly Quận chúa đế chế
+11606: Butterfly Đông êm đềm
+11607: Butterfly Phượng cửu thiên
+11608: Butterfly Cẩm y vệ: Chu tước
+11610: Butterfly Asuna Tia Chớp
+11611: Butterfly Stacia
+11613: Butterfly Gánh anh đến cùng
+11614: Butterfly Kim Ngư thần nữ
+11616: Butterfly Nữ thần Khởi nguyên
+11618: Butterfly Tình yêu nổi loạn
+11619: Butterfly Rockgirl Siêu Đẳng
+11633: Butterfly Ánh sáng 1
+11703: Ormarr Thông thỏa thích
+11803: Alice Bé gấu tuyết
+11806: Alice Tiểu quỷ bí ngô
+11807: Alice Bé du xuân
+11808: Alice Quân nhạc Athanor
+11809: Alice Tiểu tiên tử
+11812: Alice Eternal Sailor Chibi Moon
+11816: Alice Xứ sở diệu kỳ
+11817: Alice Ốc quế tinh nghịch
+11903: Mganga Pháp sư mèo
+11905: Mganga Độc toàn thân
+11907: Mganga Đèn Thần Hậu Đậu
+12002:  
+12004: Mina Kẹo hay ghẹo
+12005: Mina Lưỡi hái hoàng kim
+12007: Mina Nữ thần Ai Cập
+12008: Mina Linh xà Yêu vũ
+12009: Mina [ex][DNT]
+12011: Mina Xích Huyết Diễm Quỷ
+12103: Marja Hỏa ngọc nữ vương
+12106: Marja Phù Quang Mạc Ảnh
+12304: Maloch Đại tướng Rô bốt
+12305: Maloch Ông kẹ bí ngô
+12308: Maloch Đại ca Mukbang
+12309: Maloch Quỷ nhãn ma thể
+12310: Maloch Đao phủ Dạ Ưng
+12403: Ignis Bắc băng vương
+12406: Ignis [ex][DNT]
+12603: Arduin Tà linh hiệp sỹ
+12606: Arduin Bạch vệ chiến giáp
+12608: Arduin Ngạo Hổ Hàn Đao
+12703: Azzen'Ka Ghẹo hay kẹo
+12704: Azzen'Ka Quỷ diện lãng khách
+12706: Azzen'Ka Giáng sinh "An lành"
+12801: Lữ Bố Tiệc bãi biển
+12804: Lữ Bố Kỵ sĩ âm phủ
+12805: Lữ Bố Đặc nhiệm SWAT
+12806: Lữ Bố Tư lệnh Robot
+12808: Lữ Bố Ichigo Kurosaki
+12809: Lữ Bố Thần ngọc
+12812: Lữ Bố Cửu Thiên Lôi Thần
+12901: Triệu Vân Tiến sĩ thiên tài
+12903: Triệu Vân Quý công tử
+12906: Triệu Vân Chiến tướng mùa đông
+12907: Triệu Vân Kỵ sĩ tận thế
+12908: Triệu Vân Cẩm y vệ: Hỏa long
+12910: Triệu Vân Thần tài
+12912: Triệu Vân Minh Chung Long Đế
+13005: Airi Kiemono
+13008: Airi Tiệc bãi biển
+13009: Airi Mỵ hồ
+13011: Airi Bích Hải thánh nữ
+13013: Airi Thánh nữ Xiêm La
+13015: Airi Thứ nguyên Vệ thần
+13018: Airi Búp bê Mộng mị
+13102: Murad M-TP Thần tượng học đường
+13103: Murad Đồ thần đao
+13104: Murad Siêu việt
+13107: Murad Đặc dị
+13108: Murad Siêu việt 2.0
+13109: Murad Chí tôn thần kiếm
+13110: Murad Dược sĩ tình yêu
+13111: Murad Byakuya Kuchiki
+13112: Murad Zenitsu Agatsuma
+13115: Murad Huyết hỏa cuồng đồ
+13116: Murad Tuyệt thế thần binh
+13117: Murad Chiến binh đồ chơi
+13118:  
+13202: Hayate Chiến binh trăng khuyết
+13203: Hayate Ngân lang
+13204: Hayate Tử thần vũ trụ
+13205: Hayate Quỷ diện
+13206: Hayate Kim ưng sát thủ
+20602:  
+13208: Hayate Bạch vô thường
+13209: Hayate Bóng người dưới trăng
+13210: Hayate Tu Di thánh đế
+13211: Hayate Mãnh hổ kim cang
+13212: Hayate Thống soái Dạ Ưng
+13307: Valhein Khiêu chiến
+13308: Valhein Cá mập "nghiêm túc"
+13309: Valhein Hoàng tử Băng
+13310: Valhein Thần tài
+13311: Valhein Xạ thần Kagutsuchi
+13313: Valhein Đệ nhất thần thám
+13404: Skud Tà linh ma tướng
+13504: Thane Mật vụ
+13603: Ilumia Hồng hoa hậu
+13604: Ilumia Thiên nữ Áo dài
+13607: Ilumia Ngược dòng thời gian
+13608: Ilumia Quý cô nhà hát
+13609: Ilumia Khải Huyền Thiên Hậu
+13611: Ilumia Thụy Mộc liên hoa
+13612: Ilumia Nộ hải Thiên ngư
+13613: Ilumia Lưỡng Nghi Long Hậu
+13703: Paine Công tước máu
+13704: Paine Ô Thước đại hiệp
+13705: Paine Tử xà bá tước
+13706: Paine [ex][DNT]
+13903: Kil'Groth Chú lính chì
+14002: Superman Bất công lý
+14103: Lauriel Phù thủy bí ngô
+14104: Lauriel Thánh quang sứ
+14105: Lauriel Hoa khôi giáng sinh
+14106: Lauriel Lạc thần
+14107: Lauriel Tinh vân sứ
+14108: Lauriel Tiệc bãi biển
+14109: Lauriel Thiên sứ công nghệ
+14110: Lauriel Phi Thiên
+14111: Lauriel Thứ nguyên vệ thần
+14112: Lauriel [ex][DNT]
+14115: Lauriel Đôi cánh Nguyệt thực
+14117: Lauriel Vũ khúc miêu ảnh
+14118: Lauriel Thiên nữ Dạ Ưng
+14201: Natalya Mị muốn đi chơi
+14202: Natalya Nghệ nhân lân
+14205: Natalya Quà quái quỷ
+14206: Natalya Nghiệp hỏa yêu hậu
+14207: Natalya Băng tâm thần nữ
+14208: Natalya Nữ quái công nghệ
+14209: Natalya Nghệ sĩ ma mị
+14210: Natalya Thần phú quý
+14212: Natalya Biệt đội băng lam
+14213: Natalya Nguyệt Ảnh Kiếm Tiên
+14402: Taara Lam Hải chiến nữ
+14403: Taara Hỏa ngọc nữ đế
+14404: Taara Tiệc bãi biển
+14405: Taara Hồng môn đường chủ
+14602: Zill Dung nham
+14603: Zill Cựu thần thiên hà
+14604: Zill Diệt nguyệt tử sĩ
+14606: Zill Phong thần Tu La
+14904: Xeniel Ma sứ tận thế
+14905: Xeniel Tổng lãnh tinh hệ
+15003: Nakroth Bboy công nghệ
+15004: Nakroth Siêu việt
+15005: Nakroth Khiêu chiến
+15006: Nakroth Quán quân
+15007: Nakroth Lôi quang sứ
+15008: Nakroth Tiệc bãi biển
+15009: Nakroth Thứ nguyên vệ thần
+15010: Nakroth [ex][DNT]
+15011: Nakroth [ex][DNT]
+15012: Nakroth Killua
+15013: Nakroth Quỷ thương Liệp đế
+15014: Nakroth Producer Tia chớp
+15015: Nakroth Bạch Diện chiến thương
+15033: Nakroth Siêu việt
+15202: Điêu Thuyền Tiệc bãi biển
+15204: Điêu Thuyền WaVe
+15205: Điêu Thuyền Hoa hậu
+15206: Điêu Thuyền Phù thủy bí ngô
+15208: Điêu Thuyền Tà linh pháp trượng
+15209: Điêu Thuyền Mèo công nghệ
+15210: Điêu Thuyền Thần ngọc
+15211: Điêu Thuyền Thất Tịch tiên tử
+15212: Điêu Thuyền Eternal Sailor Moon
+15216: Điêu Thuyền Tuế Hàn Đỗ Quyên
+15301: Kaine Đôi cánh đại dương
+15302: Kaine Dơi địa ngục
+15303: Kaine Người dơi
+15304: Kaine Chiến binh kim quang
+15402: Yena Thỏ may mắn
+15403: Yena Chiến binh nguyệt tộc
+15406: Yena Dạ nguyệt thánh nữ
+15407: Yena Giảng viên tình ái
+15409: Yena WaVe
+15410: Yena Vũ điệu Giáng Sinh
+15412: Yena Huyền Cửu Thiên
+15413: Yena Trấn Yêu Thần Lộc
+15603: Aleister Quỷ soái nguyệt tộc
+15604: Aleister Siêu sao bóng rổ
+15607: Aleister Âm dương sư
+15609: Aleister Thống lĩnh hỗn mang
+15610: Aleister Mật vụ thần thám
+15611: Aleister HLV bất bại
+15612: Aleister Ác nhân đồ chơi
+15703: Raz Băng quyền quán quân
+15704: Raz Chiến thần Muay Thái
+15705: Raz Siêu việt
+15706: Raz Siêu cấp tin tặc
+15901: Dolia Hoa tiêu đại dương
+16203: Kriknak ST.L-162
+16205: Kriknak Tử trùng DDos
+16302: Ryoma Đại tướng nguyệt tộc
+16303: Ryoma Thanh long bang chủ
+16304: Ryoma Samurai huyền thoại
+16306: Ryoma Chiến binh Cyborg
+16307: Ryoma Ultraman
+16308: Ryoma Đặc nhiệm Giáng sinh
+16309: Ryoma Khiêu chiến
+16310: Ryoma Ailing Samurai
+16311: Ryoma Maple Frost
+16601: Arthur Hoàng kim cốt
+16603: Arthur Si tình kiếm
+16605: Arthur Đặc cảnh băng lôi
+16606: Arthur Hiệp sĩ trăng khuyết
+16607: Arthur Siêu việt
+16608: Arthur Crescent General
+16609: Arthur Tôn Hổ vô song
+16610: Arthur Hoàng tử Okka
+16611: Arthur Biệt đội băng lam
+16703: Ngộ Không Siêu việt
+16704: Ngộ Không Ngộ khá trẩu
+16705: Ngộ Không Siêu việt 2.0
+16706: Ngộ Không Đặc vụ băng hầu
+16708: Ngộ Không Tề Thiên ma hầu
+16710: Ngộ Không Tân niên Võ thần
+16711: Ngộ Không Thần Giáp Xích Diễm
+16712: Ngộ Không Tề Thiên Võ Thánh
+16707: Ngộ Không Nhóc tì bá đạo
+16906: Slimz Lẩu chua cay
+16909: Slimz "Siêu Cấp Tối Thượng"
+16910: Slimz [ex]
+17002: Moren Lính cứu hỏa
+17106: Cresht Bách tướng Lão tam
+17304: Fennik Tuần lộc láu lỉnh
+17305: Fennik Phi hành gia
+17308: Fennik Phi hồ ẩn sĩ
+17309: Fennik Phong tranh thám xuân
+17401: Stuart Trò đùa tử vong
+17402: Stuart Vua hề
+17403: Stuart Gã hề
+17405: Stuart Đạo tặc tử quang
+17406: Stuart Streamer bí ẩn
+17407: Stuart [ex][DNT]
+17501: Grakk Thuyền trưởng râu đỏ
+17503: Grakk Chàng gấu tuyết
+17504: Grakk Đi vào lòng đất
+17505: Grakk Mèo "Thần tài"
+17507: Grakk Tiệc bãi biển
+17512: Grakk Cận vệ Mafia
+17517: Grakk Thần ẩm thực
+17518: Grakk Thủ vệ Dạ Ưng
+17702: Lindis Quang thánh tiễn
+17704: Lindis Nữ vương pháo hoa
+17708: Lindis Đặc vụ thần thám
+18404: Helen Hotgirl Trà sữa
+18405: Helen Hồng liên tiên tử
+18406: Helen Xứ sở diệu kỳ
+18407: Helen Cổ tích Biển xanh
+18408: Helen Bé hoa xuân
+18606: TeeMee Tanuki chiêu tài
+18702: Arum Vũ khúc long hổ
+18703: Arum Linh tượng vu nữ
+18704: Arum Vũ khúc thần sứ
+18705: Arum Thỏ may mắn
+18708: Arum Quản lý tài năng
+18709: Arum Bạn muốn hẹn hò?
+18712: Arum Thần phong Thống lĩnh
+18714: Arum [ex]
+18906: Krizzix [ex][DNT]
+19002:  
+19004: Tulen Đông êm đềm
+19006: Tulen Tân thần hoàng kim
+19007: Tulen Chí tôn kiếm tiên
+19009: Tulen Thần sứ STL-79
+19010: Tulen Hỏa thần long tộc
+19011: Tulen Đại úy Athanor
+19012: Tulen Tân niên vệ thần
+19013: Tulen Tiêu Dao Vũ Thần
+19014: Tulen Giám thị sấm sét
+19015: Tulen Satoru Gojo
+19102: Rouie Công chúa hỏa long
+19108: Rouie Thụy mộc Thanh long
+19109: Rouie Lữ hành Thời không
+19204: Celica Tâm hồn trà sữa
+19206: Celica [ex][DNT]
+19302: Amily Đặc công Nhện đỏ
+19304: Amily Thỏ may mắn
+19305: Amily Võ thần thiên hà
+19502: Enzo Chiến binh trăng khuyết
+19505: Enzo Hồng hạc thị vệ
+19508: Enzo Kurapika
+19509: Enzo Sát thần Bạch Hổ
+19510: Enzo [ex]
+19603: Elsu Guitar tình ái
+19604: Elsu Chiến binh bóng tối
+19605: Elsu Sứ giả tận thế
+19607: Elsu Xạ thủ tinh linh
+19609: Elsu Trấn Thiên phi hồ
+19611: Elsu Hỏa diệm Chu Tước
+19612: Elsu Tuyệt ảnh
+19613: Elsu DJ <Siêu Đẳng>
+19904: Elando'rr Siêu thám tử
+19905: Elando'rr Chú ong bay cao
+19906: Elando'rr Tuxedo Mask
+19907: Elando'rr Uyên Ương mộng điệp
+50103: Tel'Annas Chung tình tiễn
+50105: Tel'Annas Thần sứ F.E.E-X1
+50106: Tel'Annas Cẩm y vệ: Phi ưng
+50108: Tel'Annas Thứ nguyên vệ thần
+50110: Tel'Annas Công chúa mộng mơ
+50111: Tel'Annas Vũ khúc yêu hồ
+50112: Tel'Annas Tân niên vệ thần
+50116: Tel'annas Ô Thước tiên nữ
+50117: Tel'annas Thiên Vũ Thần Long
+50119: Tel'annas [ex]
+50202: Astrid Siêu sao bóng chày
+50206: Astrid Thần trí tuệ
+50305:  
+50306: Zuka Diệt nguyệt nguyên soái
+50308: Zuka Mãnh hổ
+50309: Zuka Rapper Big Panda
+50310: Zuka Ngư ông đắc lợi
+50502: Baldum Liệt hỏa dung nham
+50602: Omen Ám tử đao
+50603: Omen Quỷ nguyệt tướng
+50604: Omen Đao phủ tận thế
+50605: Omen Chiến binh trăng khuyết
+50607: Omen Nhạc sĩ huyền thoại
+50608: Omen Quái Kiệt Guitar
+50610: Omen Huyết ảnh Tà thần
+50611: Omen Chiến xa hắc ám
+50612: Omen Chiến xa quang minh
+50802: Wisp Thỏ siêu quậy
+50803: Wisp Ếch nhồi bông
+50805: Wisp Máy phát quà
+50905: Y'bneth Titan Băng giá
+51002: Liliana Thần tượng âm nhạc
+51003: Liliana Nguyệt mị ly
+51004: Liliana Tiểu thơ anh đào
+51005: Liliana Tân nguyệt mị ly
+51006: Liliana Nữ thần F1
+51007: Liliana Tiệc bãi biển
+51009: Liliana WaVe
+51013: Liliana Lưu thủy Thần long
+51014: Liliana Thần hổ Xiêm La
+51015: Liliana Ma Pháp Tối Thượng
+51202: Rourke Biệt đội siêu hùng
+51208: Rourke Bách tướng Lão đại
+51302: Zata Sứ giả tinh hệ
+51303: Zata Thần mặt trời
+51304: Zata Khiêu chiến
+51305: Zata Tác gia đương đại
+51306: Zata Chí tôn Tà phượng
+51307: Zata Xích Huyết Bá Tước
+51402: Roxie Kèn ái tình
+51408: Roxie Hỏa thuật sư
+51502: Richter Thống soái kháng chiến
+51504: Richter Thần kiếm Susanoo
+51802: Quillen Đặc công mãng xà
+51803: Quillen Thống soái đế chế
+51804: Quillen Huyết thủ nguyệt tộc
+51806: Quillen Tà linh ma đao
+51808: Quillen Nghịch Thiên long đế
+51809: Quillen Người gác đền
+51810: Quillen Giám đốc âm nhạc
+51903: Annette Thần tượng âm nhạc
+51904: Annette Tiệc bãi biển
+51905: Annette Phi hành gia
+51908: Annette Chị ong bay thấp
+51909: Annette Tiên tri tập sự
+52002: Veres Gián điệp tinh hệ
+52006: Veres Thuỷ thần kiều diễm
+52007: Veres Kimono
+52008: Veres Phù thủy trang điểm
+52009: Veres Tiệc bãi biển
+52010: Veres Men Lam Hồn Gốm
+52011: Veres Lưu Ly Long Mẫu
+52012: Veres Vũ điệu dân gian
+52102: Florentino Giám sát tinh Hệ
+52105: Florentino Seven
+52106: Florentino Tà long kiếm sĩ
+52107: Florentino Xứ sở thần tiên
+52108: Florentino Bá vương Âm nhạc
+52110: Florentino Hisoka
+52111: Florentino Hỏa diệm Thần long
+52202: Errol Diệt nguyệt tiên phong
+52204: Errol Genos
+52205: Errol Huyết thủ Tu La
+52207: Errol Stream đến bao giờ
+52302: D'Arcy Đô đốc tinh Hệ
+52303: D'Arcy Pháp sư hỏa long
+52304: D'Arcy Tiến sĩ thiên tài
+52306: D’Arcy Tông đồ Chân lý
+52402: Capheny Thần tượng âm nhạc
+52403: Capheny Toán Hóa Sinh
+52404: Capheny Kimono
+52405: Capheny Siêu cấp tin tặc
+52406: Capheny Phi hành gia
+52407: Capheny Harley Quinn
+52408: Capheny Quân nhạc Mildar
+52410: Capheny Tử đinh hương
+52411: Capheny Vua trò chơi
+52414: Capheny 52414
+52602: Ishar Tiểu thư kẹo ngọt
+52605: Ishar Gián điệp hacker
+52608: Ishar Rồng bé bự
+52702: Sephera Chiêm tinh gia
+52703: Sephera Thần tượng âm nhạc
+52706: Sephera Lam Hải phu nhân
+52709: Sephera Bách nhạn Ngân linh
+52710: Sephera Nova Stardust
+52802: Qi Đặc vụ cáo tuyết
+52803: Qi Quán quân
+52806: Qi Búp bê Daruma
+52808: Qi Thần phong Hiệp nữ
+52903: Volkath Xung thiên thần tướng
+52905: Volkath Chiến thần Ai Cập
+52906: Volkath Hắc kỵ thời không
+53002: Dirak Pháp sư trăng khuyết
+53005: Dirak Ông bầu Showbiz
+53007: Dirak Đường chủ yêu giới
+53103: Keera Sát thủ bí ngô
+53105: Keera Tiệc bãi biển
+53107: Keera Nezuko Kamado
+53111: Keera Môn đồ Xảo quyệt
+53202: Thorne Giả kim thuật sư
+53204: Thorne Tiệc bãi biển
+53302: Laville Tay súng diệt thần
+53304: Laville Xạ thần Tinh Vệ
+53305: Laville Kim Quy thần vương
+53306: Laville Tiệc bãi biển
+53308: Laville Chiến thần MOBA
+53309: Laville Vệ binh Giáng sinh
+53402: Dextra Quận chúa Tuyết
+53405: Dextra Băng Sa công chúa
+53502: Sinestrea Tiểu thư Băng giá
+53503: Sinestrea WaVe
+53504: Sinestrea Điệp viên cánh cụt
+53510: Sinestrea Giấc mộng biển xanh
+53602: Aoi Hoàng kim công chúa
+53605: Aoi Lam Hải quận chúa
+53606: Aoi Tiểu thư Mafia
+53608: Aoi Sát thủ Dạ Ưng
+53609: Aoi Quán Quân
+53701: Allain Hắc kiếm sĩ Kirito
+53702: Allain Kirito
+53703: Allain Tuyết sơn song kiếm
+53704: Allain Thần mặt trời
+53705: Allain Bạch kiếm sĩ
+53706: Allain Hạo Thiên Khuyển
+53707: Allain Tình yêu nổi loạn
+53708: Allain Lân sư Vũ thần
+53802: Iggy Thần Miêu thiếu chủ
+53805: Iggy Tiếng thét Hỗn mang
+53902: Lorion Hỏa vân tà thần
+53903: Lorion Quân vương bóng tối
+53904: Lorion Quân vương ánh sáng
+54002: Bright Toshiro Hitsugaya
+54003: Bright Khiêu chiến
+54004: Bright Mật vụ hacker
+54007: Bright Vua về nhì
+54102: Bonnie Cô bé sợ ma
+54202: Tachi Đao khách vô tình
+54203: Tachi Xích long hỏa diệm
+54301: Aya Hoạt náo viên
+54302: Aya Điệp viên ký ức
+54303: Aya MC Sóc nhỏ
+54307: Aya Công chúa Cầu Vồng
+54308: Aya Hỏa Hồ Tiên Ngư
+54402: Yan Tanjiro Kamado
+54403: Yan Công tước Norman
+54405: Yan Bích Hạc Phiên Vân
+54503: Yue Chiêm tinh gia
+54504: Yue Vũ phiến hỏa diệm
+54505: Yue Nữ hoàng Băng giá
+54602: Teeri Minh tinh ảo thuật
+54603: Teeri Thuyền trưởng song luân
+54605: Teeri Ốc quế ngọt ngào
+54606: [ex][DNT] [ex][DNT]
+54802: Bijan Hoàng Kim cơ giáp
+54803: Bijan Đập vỡ Cây đàn
+54804: Bijan Kình thiên Long Kỵ
+15710: Raz Bão vũ Cuồng lôi
+15711: Raz Gon
+56703: Erin Tình yêu cổ tích
+56704: Erin Huyễn Ảnh Mị Điệp
+20601: Charlotte Hexsword
+59702: Biron Yuji Itadori
+59802:  
+59901:  
